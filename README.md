@@ -40,6 +40,7 @@ Analyzed Company Sales in different City, category and segment wise
 [Drill Through city](Docs\drill_through_city.png)
 
 
+
 ### Summary Page
 
 [Summary](Docs\summary.png)
@@ -47,7 +48,6 @@ Analyzed Company Sales in different City, category and segment wise
 ### Tooltip
 
 [Tooltip](Docs\Tooltip.png)
-
 
 ## Conclusion
 
