@@ -1,0 +1,1001 @@
+﻿Row_ID,Order_ID,Order_Date,Ship_Date,Customer_Name,Segment,City,Category,Product_Name,Sales,Quantity,Discount,Profit
+1,ORD00001,12-10-2025,14-10-2025,Maria Baker,Consumer,Mumbai,Fashion,She Furniture,5498.41,3,0.13,617.97
+2,ORD00002,28-02-2026,02-03-2026,Vicki Cuevas,Home Office,Mumbai,Beauty,Work Beauty,7120.19,9,0.41,-461.19
+3,ORD00003,25-12-2024,30-12-2024,Mary Clark,Corporate,Mumbai,Beauty,Responsibility Beauty,2898.66,2,0.49,-538.55
+4,ORD00004,16-07-2024,20-07-2024,Timothy Jefferson,Home Office,Bangalore,Electronics,Western Fashion,4391.45,3,0.2,125.44
+5,ORD00005,15-02-2025,19-02-2025,Sarah Willis,Consumer,Bangalore,Grocery,Admit Furniture,3609.07,4,0.26,-50.19
+6,ORD00006,07-01-2026,10-01-2026,Robin Meyer,Consumer,Delhi,Electronics,Perhaps Fashion,738.87,9,0.28,52.35
+7,ORD00007,27-12-2025,02-01-2026,Scott Lyons,Home Office,Chennai,Beauty,Later Electronics,8564.97,1,0.02,-18.44
+8,ORD00008,16-03-2025,20-03-2025,Stanley Gomez,Corporate,Delhi,Beauty,Guess Grocery,1701.45,2,0.17,525.3
+9,ORD00009,22-03-2025,29-03-2025,Jeremy Garcia,Consumer,Delhi,Grocery,Former Beauty,2820.88,10,0.38,606.93
+10,ORD00010,14-12-2025,21-12-2025,Pamela Jacobson,Consumer,Pune,Grocery,Heart Fashion,2253.19,5,0.1,35.8
+11,ORD00011,21-12-2024,26-12-2024,Ashley Smith,Corporate,Bangalore,Grocery,Glass Grocery,7696.53,3,0.09,201.71
+12,ORD00012,19-06-2024,25-06-2024,John Harrington,Home Office,Chennai,Beauty,Financial Furniture,424.72,10,0.07,-61.21
+13,ORD00013,28-04-2026,29-04-2026,Erin Martin,Consumer,Pune,Electronics,Kind Furniture,9641.86,3,0.01,-1402.67
+14,ORD00014,17-10-2025,20-10-2025,Timothy Carter,Corporate,Chennai,Furniture,Nature Electronics,6451.69,4,0.25,828
+15,ORD00015,24-07-2025,31-07-2025,Jessica Baird,Home Office,Pune,Beauty,Become Grocery,6523.34,2,0.1,2220.16
+16,ORD00016,11-09-2025,17-09-2025,David Yu,Corporate,Delhi,Furniture,Daughter Beauty,3453.66,10,0.3,765.56
+17,ORD00017,16-07-2024,22-07-2024,Charles Adams,Home Office,Hyderabad,Grocery,These Beauty,6081,6,0.33,199.86
+18,ORD00018,07-05-2024,08-05-2024,Jessica Lynn,Consumer,Pune,Fashion,Conference Electronics,9545.23,8,0.25,-1799.61
+19,ORD00019,20-06-2024,23-06-2024,Mr. Michael Tapia MD,Consumer,Chennai,Furniture,Consider Furniture,1991.64,1,0.17,437.11
+20,ORD00020,27-12-2025,28-12-2025,Timothy Wallace,Consumer,Chennai,Beauty,Despite Electronics,2056,8,0.16,-326.71
+21,ORD00021,28-12-2024,30-12-2024,Ryan Mathews,Home Office,Chennai,Grocery,Yourself Electronics,7376.52,8,0.27,-531.66
+22,ORD00022,08-07-2025,15-07-2025,Crystal Walker,Corporate,Delhi,Beauty,Authority Furniture,2923.32,2,0.36,7.4
+23,ORD00023,05-01-2025,10-01-2025,Brian Allen,Home Office,Hyderabad,Electronics,Bar Fashion,9192.38,1,0.38,-1150.63
+24,ORD00024,26-11-2025,27-11-2025,Sarah Washington,Home Office,Pune,Fashion,Physical Furniture,7766.61,2,0.43,2499.55
+25,ORD00025,14-06-2025,17-06-2025,Terry Andrews,Home Office,Delhi,Grocery,Amount Electronics,6570.87,10,0.44,1711.93
+26,ORD00026,03-03-2026,07-03-2026,Edward Gay,Corporate,Chennai,Electronics,Every Grocery,7160.2,5,0.16,693.23
+27,ORD00027,25-12-2024,31-12-2024,Jose Lopez,Home Office,Delhi,Fashion,Tax Beauty,6611.9,1,0.4,315.14
+28,ORD00028,06-04-2026,08-04-2026,Brianna Lopez,Home Office,Delhi,Beauty,Wonder Beauty,2450.34,5,0.4,-283.73
+29,ORD00029,11-07-2025,12-07-2025,Sabrina Edwards,Consumer,Mumbai,Grocery,Office Grocery,1870.2,1,0.42,631.47
+30,ORD00030,26-07-2025,28-07-2025,Richard Smith,Corporate,Bangalore,Grocery,Bring Furniture,2828.96,10,0.24,-89.44
+31,ORD00031,03-10-2024,05-10-2024,William Stephens,Consumer,Pune,Furniture,Government Furniture,8621.88,2,0.37,845.36
+32,ORD00032,09-03-2025,10-03-2025,Jamie Schwartz,Home Office,Hyderabad,Beauty,Adult Furniture,1990.27,5,0.25,146.65
+33,ORD00033,12-11-2024,18-11-2024,Amber Navarro,Corporate,Hyderabad,Furniture,Build Furniture,9348.91,4,0.35,342.47
+34,ORD00034,19-08-2024,25-08-2024,Nicole Ramos,Consumer,Delhi,Furniture,Drive Grocery,2217.54,10,0.15,223.14
+35,ORD00035,21-05-2024,28-05-2024,Kenneth Franco,Corporate,Delhi,Grocery,Dream Furniture,538.33,4,0.44,184.02
+36,ORD00036,19-04-2026,20-04-2026,Gary Williams,Consumer,Pune,Furniture,Material Furniture,8358.85,9,0.19,2440.17
+37,ORD00037,27-10-2024,02-11-2024,Leslie Dean,Home Office,Mumbai,Electronics,Fight Fashion,2744.63,3,0.19,928.52
+38,ORD00038,31-03-2026,07-04-2026,Theresa Johnson,Corporate,Chennai,Fashion,Another Furniture,5467.19,4,0.32,323.52
+39,ORD00039,12-03-2025,18-03-2025,Jennifer Miller,Home Office,Bangalore,Electronics,Relate Furniture,1142.75,10,0.19,72.44
+40,ORD00040,03-11-2024,05-11-2024,Rebecca Valenzuela DDS,Home Office,Bangalore,Grocery,Staff Beauty,4557.75,7,0.34,943.18
+41,ORD00041,23-06-2025,25-06-2025,Allison Martinez,Corporate,Hyderabad,Fashion,Type Fashion,185.81,8,0.38,-33.64
+42,ORD00042,28-09-2024,04-10-2024,Juan Clements,Consumer,Hyderabad,Electronics,Window Electronics,1136.6,2,0.15,223.74
+43,ORD00043,14-02-2026,18-02-2026,John Gross,Consumer,Mumbai,Beauty,Into Furniture,1252.95,8,0.47,-60.78
+44,ORD00044,05-09-2025,07-09-2025,Shannon Collier,Home Office,Hyderabad,Beauty,Public Furniture,3398.53,3,0.4,-540.82
+45,ORD00045,27-12-2024,30-12-2024,Sheila Holmes,Home Office,Hyderabad,Furniture,Picture Beauty,1871.83,8,0.32,-140.27
+46,ORD00046,17-11-2025,19-11-2025,Christina Burns,Corporate,Pune,Beauty,Practice Grocery,1309.47,9,0.26,-250.04
+47,ORD00047,22-09-2025,27-09-2025,Anthony Sparks,Consumer,Mumbai,Fashion,Best Beauty,6393.22,7,0.37,390.92
+48,ORD00048,26-10-2024,02-11-2024,Katrina Patel,Consumer,Chennai,Beauty,Ball Grocery,4197.93,3,0.37,404.21
+49,ORD00049,07-07-2024,10-07-2024,Jodi Ryan,Consumer,Bangalore,Grocery,Break Beauty,4931.92,6,0.18,1528.6
+50,ORD00050,30-09-2025,06-10-2025,Annette Bowers,Corporate,Pune,Fashion,Production Electronics,7058.99,4,0.31,-196.92
+51,ORD00051,25-04-2026,28-04-2026,Paul Hamilton,Home Office,Chennai,Grocery,Best Electronics,3009.73,9,0.05,129.94
+52,ORD00052,08-08-2024,15-08-2024,Whitney Acosta,Home Office,Bangalore,Fashion,Less Furniture,6839.86,2,0.2,2150.43
+53,ORD00053,25-06-2024,28-06-2024,Laura Moreno,Consumer,Hyderabad,Fashion,Fine Beauty,1478.77,2,0.07,140.41
+54,ORD00054,01-07-2025,04-07-2025,Autumn Sullivan,Corporate,Mumbai,Furniture,Billion Grocery,3994.03,7,0.28,843.81
+55,ORD00055,24-01-2026,30-01-2026,Nancy Williamson,Home Office,Pune,Grocery,Prove Furniture,1517.69,8,0.2,173.04
+56,ORD00056,16-07-2025,19-07-2025,Stephanie Lewis,Consumer,Chennai,Fashion,Sell Furniture,3386.68,2,0.28,580.79
+57,ORD00057,03-05-2025,07-05-2025,Cory Mason,Corporate,Pune,Furniture,Fill Grocery,5247.35,7,0.41,1719.67
+58,ORD00058,12-01-2025,15-01-2025,Amy Barnes,Corporate,Hyderabad,Fashion,Information Electronics,5987.84,1,0.09,-204.61
+59,ORD00059,21-09-2024,27-09-2024,Xavier Bishop,Corporate,Pune,Beauty,Example Grocery,5084.77,9,0.17,-568.26
+60,ORD00060,13-10-2024,15-10-2024,Michael Cobb,Consumer,Delhi,Beauty,Present Grocery,2923.52,8,0.11,928.96
+61,ORD00061,28-06-2024,29-06-2024,Angela Lee,Home Office,Delhi,Furniture,Among Beauty,4911.7,8,0.32,1254.4
+62,ORD00062,12-04-2026,16-04-2026,Heather Harris,Consumer,Pune,Beauty,Citizen Fashion,4209.55,9,0.12,-32.15
+63,ORD00063,28-12-2025,01-01-2026,Andrew Price,Corporate,Mumbai,Beauty,Writer Grocery,4347.19,8,0.05,641.66
+64,ORD00064,31-01-2025,01-02-2025,Eric Lawson,Consumer,Bangalore,Electronics,Visit Electronics,1455.48,5,0.09,-279.72
+65,ORD00065,20-05-2025,21-05-2025,Charles Wilson,Home Office,Pune,Grocery,Music Beauty,6898.93,7,0.22,-273.56
+66,ORD00066,07-09-2025,13-09-2025,Robert Reeves,Consumer,Hyderabad,Furniture,Future Beauty,4636.32,1,0.1,268.47
+67,ORD00067,18-04-2025,21-04-2025,Michelle Garner,Home Office,Bangalore,Furniture,Reach Electronics,5473.31,9,0.16,1586.19
+68,ORD00068,18-06-2025,21-06-2025,Elizabeth Morton,Home Office,Hyderabad,Furniture,Imagine Beauty,5087.75,9,0.32,524.64
+69,ORD00069,05-04-2025,12-04-2025,John Page,Consumer,Delhi,Grocery,Should Furniture,3544.19,4,0.01,-220.04
+70,ORD00070,27-08-2025,03-09-2025,Sydney Peterson,Home Office,Delhi,Electronics,Administration Beauty,7464.8,8,0.05,1924.05
+71,ORD00071,20-04-2025,23-04-2025,Paul Warren,Home Office,Hyderabad,Beauty,Those Electronics,4369.93,5,0.26,1346.8
+72,ORD00072,24-09-2025,30-09-2025,Danielle Patton,Corporate,Chennai,Electronics,Big Fashion,3635.2,7,0.24,573.79
+73,ORD00073,30-09-2025,07-10-2025,Michelle Keith,Corporate,Pune,Electronics,Turn Grocery,152.22,2,0.31,-20.79
+74,ORD00074,08-03-2025,15-03-2025,Tammy Jones,Consumer,Chennai,Beauty,While Beauty,4098.84,10,0.1,-683.41
+75,ORD00075,19-01-2025,21-01-2025,Dennis Wade,Corporate,Pune,Fashion,Relate Grocery,1368.28,2,0.2,-28.48
+76,ORD00076,24-06-2024,26-06-2024,Rachel Powell,Corporate,Delhi,Fashion,Art Furniture,1182.99,6,0.43,-4.76
+77,ORD00077,03-10-2025,05-10-2025,Bethany Castaneda,Home Office,Delhi,Fashion,Century Furniture,4709.03,9,0.13,961.38
+78,ORD00078,18-09-2025,20-09-2025,Hannah Harris,Home Office,Chennai,Electronics,Talk Grocery,9121.38,8,0.03,431.89
+79,ORD00079,17-06-2025,18-06-2025,Michael Gomez,Home Office,Bangalore,Furniture,Mission Beauty,2726.09,5,0.45,8
+80,ORD00080,05-09-2025,10-09-2025,Angela Ross,Home Office,Chennai,Furniture,Health Electronics,2414.86,9,0.03,-57.86
+81,ORD00081,21-11-2024,22-11-2024,Brooke Owens,Home Office,Pune,Furniture,Tell Furniture,3223.75,2,0.06,-1.37
+82,ORD00082,31-03-2026,04-04-2026,Susan Leach MD,Corporate,Pune,Fashion,Citizen Electronics,5827.2,5,0.19,312.68
+83,ORD00083,27-05-2025,28-05-2025,Jonathan Reynolds,Home Office,Delhi,Furniture,Such Fashion,4157.18,7,0.05,-424.93
+84,ORD00084,23-05-2024,29-05-2024,Jason Ross,Home Office,Bangalore,Grocery,Total Grocery,2039.91,8,0.37,-4.98
+85,ORD00085,04-08-2025,07-08-2025,Lisa Vaughn,Consumer,Delhi,Beauty,Lot Grocery,9675.19,2,0.01,2556.67
+86,ORD00086,10-04-2025,11-04-2025,Christopher Snyder,Corporate,Bangalore,Furniture,Herself Furniture,5025.1,2,0.15,-690.31
+87,ORD00087,22-12-2024,23-12-2024,Timothy Romero,Corporate,Chennai,Grocery,Example Grocery,8862.67,2,0.37,564.69
+88,ORD00088,28-01-2025,30-01-2025,Randall Barr,Home Office,Bangalore,Fashion,Total Grocery,1279.27,9,0.28,-248.14
+89,ORD00089,28-03-2026,29-03-2026,Miguel Jones,Corporate,Pune,Furniture,Central Beauty,7115.02,9,0.4,241.76
+90,ORD00090,20-01-2025,27-01-2025,Maria Harris,Consumer,Pune,Beauty,Huge Grocery,4612.44,2,0.1,-186.47
+91,ORD00091,10-03-2025,11-03-2025,Erin Garza,Corporate,Delhi,Grocery,Argue Grocery,3560.49,9,0.45,-582.96
+92,ORD00092,09-03-2026,16-03-2026,Katelyn Webb,Home Office,Pune,Furniture,Travel Beauty,2761.66,5,0.33,215.57
+93,ORD00093,23-01-2025,30-01-2025,Douglas Little,Home Office,Bangalore,Electronics,Choice Furniture,5779.88,2,0.22,-278.38
+94,ORD00094,23-11-2025,24-11-2025,David Romero,Home Office,Hyderabad,Furniture,Bar Fashion,1928.96,7,0.28,534
+95,ORD00095,10-11-2024,14-11-2024,Alexander Moran,Consumer,Pune,Fashion,Six Grocery,4062.47,1,0.45,-27.26
+96,ORD00096,23-06-2024,24-06-2024,Maria Wright,Consumer,Mumbai,Furniture,Record Beauty,613.66,10,0.36,132.93
+97,ORD00097,06-09-2025,08-09-2025,Miguel Keller,Corporate,Chennai,Furniture,Increase Electronics,8073.05,9,0.45,1685.19
+98,ORD00098,14-06-2024,18-06-2024,Christopher Moran,Corporate,Mumbai,Furniture,Forward Electronics,9642.68,1,0.22,2058.74
+99,ORD00099,14-10-2024,16-10-2024,John Sanders,Consumer,Hyderabad,Grocery,Form Beauty,8090.08,8,0.49,2308.27
+100,ORD00100,04-04-2025,06-04-2025,Patricia Hutchinson,Home Office,Pune,Electronics,Stay Furniture,7898.85,6,0.36,1552.85
+101,ORD00101,16-11-2025,18-11-2025,Harry Dorsey,Home Office,Pune,Grocery,Strategy Beauty,1951.36,10,0.01,-70.03
+102,ORD00102,30-01-2025,31-01-2025,Barry Costa,Corporate,Chennai,Beauty,Ten Furniture,259.13,10,0.23,12.58
+103,ORD00103,13-11-2024,17-11-2024,Anna Rose,Consumer,Hyderabad,Electronics,Over Furniture,198.66,6,0.18,51.79
+104,ORD00104,25-09-2025,26-09-2025,Timothy Gentry,Home Office,Pune,Fashion,Can Grocery,9465.81,8,0.28,309.76
+105,ORD00105,17-04-2025,24-04-2025,Paula Martin,Consumer,Hyderabad,Fashion,Pattern Electronics,732.37,3,0.27,233.06
+106,ORD00106,06-09-2024,08-09-2024,Wendy Thomas,Corporate,Mumbai,Electronics,Culture Grocery,3603.67,5,0,323.72
+107,ORD00107,21-04-2026,24-04-2026,Benjamin Blair,Consumer,Pune,Fashion,Help Furniture,7381.05,3,0.44,-748.6
+108,ORD00108,14-01-2025,18-01-2025,Erik Hernandez,Consumer,Bangalore,Electronics,Degree Grocery,4690.76,6,0.05,1451.29
+109,ORD00109,04-08-2024,10-08-2024,Brandon Nelson,Home Office,Mumbai,Beauty,Dream Beauty,5197.52,3,0.05,691.58
+110,ORD00110,13-02-2025,15-02-2025,Eric Spencer,Corporate,Mumbai,Fashion,Address Fashion,889.74,9,0.03,284.11
+111,ORD00111,23-02-2026,26-02-2026,Jared Ramirez,Consumer,Mumbai,Furniture,Listen Fashion,853.44,4,0.04,189.7
+112,ORD00112,02-01-2025,08-01-2025,Ashley Wright,Home Office,Mumbai,Fashion,Technology Grocery,9963.58,8,0.36,-395.35
+113,ORD00113,13-12-2024,18-12-2024,Patrick Howard,Consumer,Bangalore,Furniture,Director Beauty,826.48,1,0,124.89
+114,ORD00114,21-06-2025,26-06-2025,Amanda Wilson,Corporate,Hyderabad,Furniture,Deep Grocery,8668.71,1,0.21,122.64
+115,ORD00115,13-10-2025,16-10-2025,Audrey Smith,Consumer,Hyderabad,Fashion,Matter Electronics,6729.81,10,0.21,-1016.84
+116,ORD00116,31-10-2025,06-11-2025,Gabriel Friedman,Corporate,Bangalore,Beauty,Where Grocery,8839.64,4,0.09,595.83
+117,ORD00117,11-10-2024,15-10-2024,Joseph Woods,Corporate,Chennai,Furniture,Suggest Beauty,7626.85,5,0.16,-1489.98
+118,ORD00118,16-10-2025,22-10-2025,Judith Gregory,Home Office,Bangalore,Grocery,Nice Furniture,3303.8,10,0.21,1054.14
+119,ORD00119,22-11-2025,25-11-2025,Andrea Wells DVM,Consumer,Bangalore,Electronics,Even Beauty,5209.71,1,0.49,1703.74
+120,ORD00120,03-07-2025,05-07-2025,Jessica Palmer,Consumer,Bangalore,Beauty,Green Fashion,3745.2,10,0.25,-352.34
+121,ORD00121,20-06-2024,26-06-2024,Brian Huynh,Corporate,Bangalore,Fashion,Account Electronics,7471.58,8,0.41,836.36
+122,ORD00122,18-11-2024,19-11-2024,Angela Gonzalez,Home Office,Pune,Grocery,Push Grocery,4474.67,9,0.25,-562.2
+123,ORD00123,25-11-2024,28-11-2024,Kenneth Braun,Home Office,Chennai,Electronics,Artist Electronics,8066.09,8,0.32,-1094.64
+124,ORD00124,20-03-2026,22-03-2026,Timothy Gregory,Corporate,Chennai,Furniture,Industry Furniture,6233.97,9,0.09,416.38
+125,ORD00125,06-07-2024,07-07-2024,Sheila Wong,Corporate,Chennai,Grocery,Win Furniture,9169.47,3,0.24,209.93
+126,ORD00126,28-06-2024,01-07-2024,Kevin Gonzalez,Corporate,Pune,Furniture,Student Fashion,4366.43,10,0.35,1188.07
+127,ORD00127,10-12-2024,13-12-2024,Eric Hall,Consumer,Bangalore,Electronics,Special Fashion,3143.51,6,0.45,774.85
+128,ORD00128,08-02-2025,10-02-2025,Dawn Pope,Corporate,Mumbai,Grocery,You Fashion,2323.43,8,0.36,533.71
+129,ORD00129,24-06-2024,25-06-2024,William Torres,Consumer,Bangalore,Fashion,While Furniture,3001.51,1,0.37,-67.83
+130,ORD00130,08-11-2025,15-11-2025,John Kaiser,Corporate,Bangalore,Electronics,While Furniture,8138.11,9,0.24,-1139.4
+131,ORD00131,31-12-2024,07-01-2025,Melanie Briggs,Home Office,Chennai,Beauty,Exist Furniture,6099.04,6,0.17,415.48
+132,ORD00132,30-07-2025,04-08-2025,Charles Gonzalez,Home Office,Chennai,Grocery,Bank Electronics,2050.59,6,0.02,243.89
+133,ORD00133,20-06-2025,27-06-2025,Lisa Martin,Home Office,Delhi,Grocery,Loss Grocery,6477.8,1,0.44,559.9
+134,ORD00134,17-02-2026,19-02-2026,Jennifer Clark,Home Office,Pune,Grocery,Place Fashion,1590.45,2,0.36,-134.31
+135,ORD00135,13-04-2025,19-04-2025,Nathaniel Fitzgerald,Corporate,Bangalore,Electronics,Require Beauty,2017.54,3,0.21,-340.45
+136,ORD00136,07-04-2025,11-04-2025,Kristen Brown,Corporate,Delhi,Furniture,Ago Fashion,9812.89,3,0.29,1482.11
+137,ORD00137,10-06-2025,11-06-2025,Kelly White,Corporate,Bangalore,Electronics,Notice Beauty,9725.65,10,0.05,-1690.88
+138,ORD00138,29-03-2026,30-03-2026,Alexander Duncan,Corporate,Pune,Electronics,Situation Beauty,1921.77,9,0.31,586.23
+139,ORD00139,16-07-2024,22-07-2024,Sean Moss,Corporate,Delhi,Fashion,Both Electronics,1675.06,5,0.09,-268.8
+140,ORD00140,22-07-2025,29-07-2025,Jeffery Jones,Home Office,Hyderabad,Fashion,Interesting Grocery,5113.51,2,0.02,1739.93
+141,ORD00141,27-02-2025,02-03-2025,Rebecca Tucker,Corporate,Mumbai,Fashion,Man Electronics,7759.49,1,0.05,1243.31
+142,ORD00142,28-11-2025,02-12-2025,Evelyn Powell,Home Office,Chennai,Fashion,Ability Grocery,4740.6,5,0.37,244.01
+143,ORD00143,08-05-2024,10-05-2024,Jennifer Hines,Corporate,Mumbai,Electronics,Water Electronics,656.8,6,0.05,-130.08
+144,ORD00144,16-06-2025,17-06-2025,Michael Coleman,Consumer,Delhi,Grocery,Across Fashion,4806.49,6,0.12,-138.45
+145,ORD00145,09-11-2024,11-11-2024,Gabrielle Davis,Consumer,Pune,Fashion,Between Grocery,6069.44,1,0.08,1407.67
+146,ORD00146,23-10-2024,24-10-2024,Christian Berg,Corporate,Mumbai,Electronics,Stage Beauty,7158.2,5,0.29,-541.75
+147,ORD00147,12-08-2024,17-08-2024,Mark Sharp,Consumer,Bangalore,Beauty,Ten Fashion,787.9,1,0.2,-131.21
+148,ORD00148,12-05-2025,13-05-2025,Jonathan Spencer,Home Office,Mumbai,Electronics,Back Electronics,4895.53,5,0.23,1356.51
+149,ORD00149,12-10-2025,13-10-2025,Christopher Bentley,Home Office,Hyderabad,Furniture,News Electronics,7065.14,9,0.32,2143.51
+150,ORD00150,28-04-2025,04-05-2025,Brenda Valdez,Consumer,Chennai,Fashion,Will Furniture,1826.64,1,0.25,-147.15
+151,ORD00151,11-05-2025,13-05-2025,Mr. James Larsen,Corporate,Delhi,Beauty,Quality Grocery,8487.85,10,0.49,-520.6
+152,ORD00152,29-04-2026,30-04-2026,Ronald Wagner,Corporate,Hyderabad,Furniture,Expert Grocery,5770.81,3,0.34,1289.03
+153,ORD00153,12-01-2026,16-01-2026,Brent Perez,Corporate,Delhi,Beauty,Hotel Beauty,3016.29,10,0.07,967.69
+154,ORD00154,13-08-2024,18-08-2024,John Newton,Corporate,Hyderabad,Grocery,Form Electronics,1001.79,4,0.49,129.63
+155,ORD00155,29-10-2025,31-10-2025,Jose Mann,Corporate,Hyderabad,Grocery,Manager Beauty,1763.16,2,0.12,308.79
+156,ORD00156,13-12-2025,17-12-2025,Priscilla Miller,Consumer,Bangalore,Beauty,Show Furniture,9337.81,6,0.29,1695.03
+157,ORD00157,21-07-2024,24-07-2024,Stacie Brown,Corporate,Mumbai,Furniture,Sit Fashion,2285.59,8,0.48,-98.54
+158,ORD00158,17-02-2026,22-02-2026,Aaron Barry,Home Office,Mumbai,Beauty,Tough Furniture,9828.52,3,0.02,-1911.88
+159,ORD00159,07-02-2025,10-02-2025,Daniel Brown,Home Office,Hyderabad,Furniture,Treat Fashion,2690.82,1,0.32,-423.72
+160,ORD00160,18-02-2025,23-02-2025,Holly Salas,Consumer,Bangalore,Grocery,Easy Fashion,7564.15,4,0.2,-1452.86
+161,ORD00161,26-01-2025,01-02-2025,Brandon Silva,Corporate,Mumbai,Beauty,Public Fashion,4371.67,1,0.13,783.31
+162,ORD00162,07-06-2024,08-06-2024,Jennifer Bird,Corporate,Mumbai,Grocery,Stay Grocery,7230.17,7,0.38,-194.29
+163,ORD00163,29-04-2025,06-05-2025,Michael May,Consumer,Chennai,Fashion,Maybe Furniture,9922.57,9,0.24,-1155.72
+164,ORD00164,30-10-2024,04-11-2024,Lauren Snyder,Consumer,Chennai,Furniture,Green Electronics,8699.31,9,0.29,2668.48
+165,ORD00165,28-04-2026,29-04-2026,Edward Oconnor,Home Office,Pune,Fashion,Only Electronics,3662.31,9,0.35,862.79
+166,ORD00166,03-05-2026,04-05-2026,Michael Reynolds,Home Office,Pune,Grocery,Still Furniture,2672.09,1,0.2,801.61
+167,ORD00167,01-01-2026,02-01-2026,Brian Mccoy,Consumer,Bangalore,Grocery,Resource Beauty,1724.35,2,0.42,-148.6
+168,ORD00168,01-02-2025,03-02-2025,Brian Chavez,Home Office,Hyderabad,Grocery,Short Fashion,5385.83,7,0.11,403.37
+169,ORD00169,24-10-2025,31-10-2025,Luis Gallagher,Consumer,Delhi,Beauty,Help Electronics,4304.42,10,0.48,-398.25
+170,ORD00170,05-04-2026,08-04-2026,Tara Gaines,Home Office,Pune,Beauty,Involve Fashion,4531.07,5,0.22,318.8
+171,ORD00171,12-08-2025,15-08-2025,Ann Moreno,Home Office,Chennai,Furniture,Number Grocery,2519.64,2,0.01,-136.21
+172,ORD00172,24-06-2025,30-06-2025,Matthew Bernard,Consumer,Chennai,Furniture,Skill Fashion,829.12,3,0.27,220.03
+173,ORD00173,30-11-2024,01-12-2024,Anthony Hoffman,Corporate,Bangalore,Beauty,But Electronics,8759.2,3,0.1,2549.5
+174,ORD00174,16-02-2025,19-02-2025,Kathryn Dunn,Consumer,Pune,Electronics,Act Fashion,2027.4,3,0.02,687.92
+175,ORD00175,30-08-2025,05-09-2025,Candice Lynch,Corporate,Mumbai,Furniture,Thousand Furniture,2008.67,6,0.21,-7.58
+176,ORD00176,15-11-2025,20-11-2025,Michael Shelton,Consumer,Chennai,Beauty,Able Fashion,1222.88,5,0.23,328.1
+177,ORD00177,11-04-2026,14-04-2026,Brett Bush,Consumer,Mumbai,Furniture,See Fashion,9087.44,8,0.3,-1467.55
+178,ORD00178,28-11-2024,30-11-2024,Sarah Hill,Corporate,Chennai,Electronics,Rule Fashion,9542.36,8,0.24,-178.7
+179,ORD00179,13-03-2026,18-03-2026,James Sanchez,Corporate,Chennai,Grocery,Career Electronics,8337.53,3,0.14,1921.34
+180,ORD00180,30-08-2024,06-09-2024,Tammy Gross,Corporate,Bangalore,Furniture,Know Grocery,1160.08,4,0.09,359.43
+181,ORD00181,27-06-2024,29-06-2024,Michael Adams,Home Office,Bangalore,Furniture,Cover Grocery,5772.44,10,0.13,-1003.97
+182,ORD00182,01-04-2026,02-04-2026,Bonnie Taylor,Corporate,Pune,Grocery,Even Furniture,8472.54,1,0.49,508.78
+183,ORD00183,20-07-2024,25-07-2024,Jamie Johnson,Home Office,Mumbai,Grocery,Get Grocery,8805.18,2,0.19,2819.15
+184,ORD00184,14-09-2024,17-09-2024,William Thompson,Home Office,Pune,Electronics,Letter Furniture,4014.61,2,0.08,174.9
+185,ORD00185,01-10-2024,03-10-2024,Michael Nguyen,Consumer,Bangalore,Furniture,Sure Grocery,4585.64,6,0.35,1028.4
+186,ORD00186,07-10-2024,11-10-2024,Ronald Burns,Corporate,Mumbai,Fashion,Door Fashion,878.54,7,0.42,139.84
+187,ORD00187,26-07-2025,31-07-2025,Jordan Huff,Consumer,Hyderabad,Furniture,See Grocery,5688.3,7,0.09,-457.66
+188,ORD00188,28-07-2024,29-07-2024,Albert Burch,Consumer,Delhi,Furniture,Him Fashion,1667.49,9,0.37,289.37
+189,ORD00189,05-01-2025,10-01-2025,Kyle Foley,Home Office,Delhi,Grocery,Might Furniture,8802.63,10,0.45,-152.95
+190,ORD00190,20-10-2025,22-10-2025,Jack Garcia,Corporate,Mumbai,Electronics,Try Grocery,1143.08,1,0.47,349.17
+191,ORD00191,01-09-2025,07-09-2025,Alicia Pruitt,Consumer,Mumbai,Beauty,Clear Beauty,7175.78,4,0.37,-1421.67
+192,ORD00192,20-12-2024,25-12-2024,Peter Stone,Home Office,Mumbai,Grocery,Modern Beauty,2258.63,3,0.07,99.32
+193,ORD00193,02-10-2025,07-10-2025,Emily Hernandez,Home Office,Chennai,Grocery,Car Electronics,5817.83,2,0.37,-317.4
+194,ORD00194,23-01-2025,25-01-2025,Derrick Davis,Consumer,Chennai,Fashion,Imagine Fashion,7822.93,6,0.18,2463.45
+195,ORD00195,03-06-2024,10-06-2024,Pamela Clark,Consumer,Chennai,Electronics,Early Grocery,1177.24,8,0.34,-96.95
+196,ORD00196,09-02-2026,11-02-2026,Megan Jefferson,Corporate,Hyderabad,Electronics,Special Furniture,419.33,6,0.48,-9.74
+197,ORD00197,09-04-2026,11-04-2026,Mark Bright,Corporate,Bangalore,Fashion,Year Fashion,5747.99,10,0.33,422.36
+198,ORD00198,08-01-2025,09-01-2025,Zachary Arnold,Consumer,Hyderabad,Electronics,Daughter Fashion,8975.74,4,0.16,868.87
+199,ORD00199,18-12-2024,22-12-2024,Angela Harris,Home Office,Delhi,Grocery,Operation Fashion,8344.86,3,0.21,-1520.74
+200,ORD00200,20-08-2025,27-08-2025,Abigail Hernandez,Corporate,Hyderabad,Furniture,Majority Electronics,3790.1,10,0.14,-32.15
+201,ORD00201,15-05-2025,16-05-2025,Janet Tyler,Corporate,Mumbai,Electronics,Candidate Electronics,4435.87,10,0.11,1203.89
+202,ORD00202,23-07-2025,25-07-2025,Sarah Fisher,Consumer,Pune,Furniture,Few Furniture,8240.22,8,0.1,42.75
+203,ORD00203,13-05-2025,16-05-2025,Sharon Burns,Corporate,Pune,Furniture,Mother Electronics,907.89,4,0.24,186.66
+204,ORD00204,01-02-2026,05-02-2026,Kathleen Baker,Corporate,Delhi,Beauty,Nature Furniture,6131.12,7,0.42,1115.76
+205,ORD00205,05-12-2025,11-12-2025,Jillian Cherry,Consumer,Hyderabad,Grocery,Black Beauty,2849.55,4,0.33,-444.63
+206,ORD00206,17-10-2025,22-10-2025,Maria Guerra,Consumer,Chennai,Electronics,Else Furniture,9893.85,6,0,1221.7
+207,ORD00207,01-09-2025,03-09-2025,Jeffrey Reed,Consumer,Chennai,Fashion,Parent Beauty,5255.07,4,0.47,132.12
+208,ORD00208,05-11-2024,07-11-2024,Annette Brown,Home Office,Chennai,Furniture,Life Grocery,2499.02,7,0.13,-435.15
+209,ORD00209,24-05-2025,26-05-2025,Douglas Little,Corporate,Pune,Beauty,Reality Beauty,6666.36,7,0.33,423.34
+210,ORD00210,29-06-2024,06-07-2024,Sharon Turner,Corporate,Chennai,Furniture,Something Electronics,4298.69,4,0.27,-194.44
+211,ORD00211,06-05-2025,13-05-2025,Parker Wilson,Consumer,Chennai,Furniture,Home Grocery,3988.52,5,0.22,22.21
+212,ORD00212,12-03-2025,16-03-2025,Karen Marquez,Corporate,Chennai,Fashion,Chair Electronics,3933.26,10,0.49,679.77
+213,ORD00213,08-03-2026,15-03-2026,Greg Parker,Consumer,Chennai,Beauty,Continue Electronics,5789.86,1,0.4,1804.16
+214,ORD00214,14-02-2026,17-02-2026,Brandon Williams,Home Office,Pune,Furniture,Stay Furniture,4371.63,6,0.13,-396.89
+215,ORD00215,12-01-2025,15-01-2025,Cory Ortiz,Home Office,Mumbai,Electronics,Morning Grocery,8571.11,2,0.29,-674.93
+216,ORD00216,28-07-2024,04-08-2024,Amber Melendez,Consumer,Pune,Electronics,Bad Beauty,6276.32,1,0.35,1767.13
+217,ORD00217,10-08-2024,15-08-2024,Kyle Butler,Corporate,Hyderabad,Grocery,Customer Fashion,494.52,7,0.4,137.05
+218,ORD00218,28-10-2025,01-11-2025,Rebecca Reed,Home Office,Delhi,Electronics,Tree Electronics,1480.33,6,0.44,71.12
+219,ORD00219,18-02-2025,19-02-2025,Elizabeth Greene,Home Office,Hyderabad,Beauty,Certainly Fashion,4529.96,8,0.46,29.72
+220,ORD00220,27-03-2025,31-03-2025,Steven Caldwell,Home Office,Chennai,Fashion,Brother Beauty,4447.41,7,0.11,1059.32
+221,ORD00221,12-07-2025,19-07-2025,Rita Cabrera,Corporate,Pune,Beauty,Though Beauty,8258.29,1,0.48,689.3
+222,ORD00222,17-11-2025,22-11-2025,Kayla Williams,Home Office,Bangalore,Beauty,Part Grocery,4128,1,0.06,-234.94
+223,ORD00223,08-06-2025,14-06-2025,Austin Craig,Home Office,Mumbai,Electronics,Find Grocery,4140.79,4,0.41,-312.91
+224,ORD00224,11-04-2026,18-04-2026,Brian Gutierrez,Corporate,Delhi,Electronics,Offer Beauty,8036.18,10,0.38,593.57
+225,ORD00225,22-01-2026,27-01-2026,Linda Mejia,Corporate,Hyderabad,Electronics,Argue Grocery,6115.86,7,0.5,-362.18
+226,ORD00226,30-08-2024,02-09-2024,Michael Ellis,Corporate,Bangalore,Fashion,Couple Fashion,2920.81,4,0.41,127.51
+227,ORD00227,11-10-2025,14-10-2025,Maria Baker,Home Office,Delhi,Electronics,Threat Beauty,938.63,8,0.32,-138.77
+228,ORD00228,13-02-2025,15-02-2025,Michael Anthony,Corporate,Pune,Fashion,Customer Fashion,1876.08,5,0.38,396.3
+229,ORD00229,05-12-2024,10-12-2024,Kaitlyn Moore,Consumer,Pune,Fashion,True Electronics,1894.61,4,0.15,-284.36
+230,ORD00230,26-05-2024,31-05-2024,Ann Wade,Corporate,Delhi,Grocery,His Electronics,8143.73,4,0.49,1666.37
+231,ORD00231,15-08-2024,22-08-2024,Frances Brown,Consumer,Hyderabad,Fashion,Avoid Beauty,1638.39,8,0.35,92.43
+232,ORD00232,07-11-2025,11-11-2025,Christopher Christian,Home Office,Hyderabad,Electronics,Sure Electronics,5667.06,3,0.3,-710.07
+233,ORD00233,21-06-2025,27-06-2025,Brian Ortiz,Corporate,Hyderabad,Electronics,Significant Fashion,9723.59,5,0.14,-850.24
+234,ORD00234,30-06-2025,04-07-2025,Ariana Wilson,Corporate,Mumbai,Grocery,Door Electronics,5056.63,6,0.1,818.66
+235,ORD00235,20-07-2025,27-07-2025,Susan Carrillo,Corporate,Pune,Grocery,Life Electronics,2249.9,5,0.09,690.01
+236,ORD00236,10-03-2025,15-03-2025,Chad Bowers,Consumer,Hyderabad,Electronics,Network Electronics,5394.98,10,0.35,1191.85
+237,ORD00237,16-09-2024,21-09-2024,Jennifer Jackson,Consumer,Bangalore,Beauty,Space Furniture,5086.35,1,0.02,-4.18
+238,ORD00238,14-12-2025,20-12-2025,Justin Rogers,Home Office,Delhi,Furniture,Man Furniture,3836.93,1,0.39,1231.45
+239,ORD00239,14-08-2024,21-08-2024,Mary Simmons,Home Office,Hyderabad,Electronics,Continue Fashion,9304.7,7,0.15,-80.87
+240,ORD00240,08-11-2024,11-11-2024,Brandon Lam,Consumer,Bangalore,Beauty,Particularly Furniture,9422.44,8,0.08,-505
+241,ORD00241,26-04-2025,29-04-2025,Gary Jenkins,Corporate,Mumbai,Fashion,Yourself Grocery,2109.24,5,0.46,-336.73
+242,ORD00242,01-11-2024,03-11-2024,Casey Kennedy,Home Office,Chennai,Furniture,Opportunity Fashion,6999.56,5,0.5,1854.14
+243,ORD00243,01-12-2025,08-12-2025,Deanna Pope,Consumer,Pune,Electronics,Traditional Electronics,2352.48,1,0.04,78.44
+244,ORD00244,28-12-2025,31-12-2025,Mandy Delgado,Corporate,Pune,Beauty,Me Electronics,4442.8,1,0.01,985.33
+245,ORD00245,28-08-2025,04-09-2025,Randall Silva,Home Office,Bangalore,Furniture,Me Beauty,7221.78,6,0.32,1349.21
+246,ORD00246,19-03-2026,20-03-2026,Robin Reed,Corporate,Chennai,Furniture,Game Grocery,3177.29,4,0.5,143.16
+247,ORD00247,19-05-2025,23-05-2025,Ashley Ramsey,Home Office,Bangalore,Beauty,Actually Grocery,5809.98,6,0.39,1941.85
+248,ORD00248,10-07-2024,12-07-2024,Katherine Williams,Consumer,Bangalore,Furniture,Receive Furniture,387.67,7,0.1,40.55
+249,ORD00249,05-02-2026,06-02-2026,Sheila Cox,Home Office,Delhi,Fashion,Low Furniture,1425.79,6,0.22,-117.33
+250,ORD00250,11-12-2024,14-12-2024,Jennifer Proctor,Home Office,Chennai,Beauty,Catch Furniture,3145.19,7,0.45,676.53
+251,ORD00251,11-03-2026,12-03-2026,Andrea Thomas,Consumer,Bangalore,Grocery,Factor Furniture,3823.46,1,0.26,579.07
+252,ORD00252,11-08-2024,17-08-2024,Gwendolyn Roman,Corporate,Mumbai,Electronics,Eight Furniture,982.74,1,0.34,280.02
+253,ORD00253,18-05-2024,20-05-2024,Kristen Carpenter,Consumer,Bangalore,Grocery,Least Furniture,7381.28,3,0.46,-816.8
+254,ORD00254,04-12-2025,06-12-2025,Danielle Alvarez,Home Office,Mumbai,Electronics,Policy Electronics,8722.26,10,0.02,2114.1
+255,ORD00255,27-06-2025,30-06-2025,Melissa Mullins,Corporate,Pune,Beauty,Condition Fashion,711.63,5,0.16,171.29
+256,ORD00256,06-08-2025,09-08-2025,Calvin Cain,Consumer,Chennai,Furniture,Summer Grocery,3194.22,6,0.16,-553.76
+257,ORD00257,06-03-2025,12-03-2025,Whitney Martinez,Home Office,Pune,Furniture,Interest Furniture,1500.75,7,0.13,504.61
+258,ORD00258,19-01-2026,26-01-2026,Adam George,Consumer,Mumbai,Furniture,Best Grocery,978.29,6,0.03,-97.84
+259,ORD00259,15-01-2026,17-01-2026,Dawn Williams,Home Office,Chennai,Furniture,Relationship Fashion,1192.3,2,0.12,135.01
+260,ORD00260,27-01-2025,03-02-2025,Brandy Brooks,Corporate,Delhi,Electronics,True Electronics,1961.29,1,0.25,161.74
+261,ORD00261,02-09-2025,07-09-2025,Robert Peters,Corporate,Bangalore,Fashion,Even Grocery,7240.54,8,0.18,2161.54
+262,ORD00262,25-07-2024,01-08-2024,Gregory Jackson,Consumer,Mumbai,Furniture,Position Beauty,1389.37,3,0.07,162.26
+263,ORD00263,05-02-2026,11-02-2026,Nicholas Smith,Corporate,Pune,Grocery,Party Furniture,4712.25,5,0.17,-468.89
+264,ORD00264,06-12-2024,13-12-2024,Claudia Gibson,Corporate,Hyderabad,Furniture,Reduce Grocery,4613.74,10,0.48,646.41
+265,ORD00265,01-03-2025,03-03-2025,Scott Davis,Corporate,Bangalore,Grocery,Tonight Grocery,2595.45,4,0.26,821.67
+266,ORD00266,24-08-2025,31-08-2025,Whitney Mclean,Consumer,Chennai,Furniture,Break Electronics,2052.32,7,0.47,-303.18
+267,ORD00267,13-06-2024,14-06-2024,Rebecca Wise,Consumer,Mumbai,Grocery,Whose Grocery,1924.16,4,0.15,-165.46
+268,ORD00268,15-02-2026,16-02-2026,Bryan Jones,Home Office,Delhi,Electronics,Degree Fashion,7706.93,10,0.34,876.83
+269,ORD00269,30-06-2024,06-07-2024,Nathaniel Marshall,Consumer,Pune,Fashion,Pick Grocery,6065.23,6,0.14,-167.15
+270,ORD00270,24-07-2025,30-07-2025,Hannah Griffin,Home Office,Bangalore,Grocery,Water Beauty,6214.76,4,0.34,-454.19
+271,ORD00271,02-07-2024,06-07-2024,Joseph Taylor,Corporate,Delhi,Furniture,Usually Electronics,7594.2,6,0.11,679.54
+272,ORD00272,05-01-2025,10-01-2025,Deborah Brown,Corporate,Delhi,Electronics,Both Furniture,3877.49,9,0.31,252.89
+273,ORD00273,17-05-2024,20-05-2024,Courtney Suarez,Consumer,Delhi,Beauty,Follow Furniture,2570.33,5,0.49,116.2
+274,ORD00274,26-01-2025,28-01-2025,Karen Frye,Consumer,Mumbai,Beauty,Lose Grocery,6166.74,2,0.05,-105.28
+275,ORD00275,22-11-2024,23-11-2024,Jonathan Blackwell,Corporate,Chennai,Beauty,However Grocery,4294.13,3,0.3,1361.07
+276,ORD00276,13-07-2024,20-07-2024,Sergio Bryant,Corporate,Pune,Beauty,Line Electronics,6346.92,10,0.22,-800.82
+277,ORD00277,09-04-2025,12-04-2025,Kelly Spencer,Home Office,Bangalore,Beauty,Establish Beauty,2963.36,7,0.4,-152
+278,ORD00278,14-04-2025,17-04-2025,Erin Mcclure,Consumer,Pune,Grocery,Upon Grocery,1501.87,8,0.23,83.24
+279,ORD00279,27-02-2025,01-03-2025,Anthony Davis,Corporate,Hyderabad,Fashion,Child Furniture,710.73,4,0.32,-73.57
+280,ORD00280,07-03-2025,09-03-2025,Douglas Skinner,Home Office,Mumbai,Grocery,Address Fashion,2113.96,4,0.33,-383.23
+281,ORD00281,29-07-2024,05-08-2024,Laura Osborn,Consumer,Chennai,Beauty,Charge Fashion,8630.21,9,0.42,2102.69
+282,ORD00282,29-09-2024,01-10-2024,Lori Smith,Consumer,Delhi,Grocery,Focus Furniture,1707.23,3,0.21,597.02
+283,ORD00283,05-12-2025,08-12-2025,Stephanie Davis,Consumer,Mumbai,Grocery,Room Beauty,9434.6,3,0.49,1084.49
+284,ORD00284,20-06-2024,21-06-2024,Mark Newton,Corporate,Hyderabad,Electronics,Within Fashion,1687.72,8,0.08,206.74
+285,ORD00285,06-10-2025,12-10-2025,Mark Tran,Home Office,Pune,Furniture,Group Beauty,6705.26,5,0.24,-582.92
+286,ORD00286,06-03-2025,08-03-2025,Luke Boyd,Home Office,Bangalore,Electronics,Thing Electronics,3363.18,6,0.41,-159.33
+287,ORD00287,29-11-2024,05-12-2024,Elizabeth Flores,Corporate,Bangalore,Grocery,Life Beauty,9145.94,3,0.16,1131.93
+288,ORD00288,28-09-2024,04-10-2024,Christine Green,Consumer,Delhi,Beauty,Heart Fashion,6086.22,2,0.36,332.08
+289,ORD00289,13-08-2025,20-08-2025,Wendy Skinner,Home Office,Chennai,Beauty,Whether Furniture,1809.7,1,0.19,58
+290,ORD00290,23-07-2025,30-07-2025,John Crawford Jr.,Corporate,Hyderabad,Fashion,Pay Fashion,2650.93,2,0.06,841.32
+291,ORD00291,02-09-2025,08-09-2025,Lisa Evans,Consumer,Pune,Furniture,Matter Furniture,4533.24,7,0.21,464.38
+292,ORD00292,05-05-2025,08-05-2025,Kathryn Flores,Home Office,Bangalore,Electronics,Section Grocery,8804.66,4,0.26,1950.01
+293,ORD00293,01-03-2025,08-03-2025,Laura Kerr,Home Office,Hyderabad,Furniture,Management Grocery,8898.46,7,0.05,-1339.83
+294,ORD00294,09-12-2024,10-12-2024,Brandy Mcguire,Consumer,Mumbai,Electronics,Use Electronics,8542.87,8,0.41,1602.4
+295,ORD00295,05-12-2024,06-12-2024,Tonya Powell,Corporate,Mumbai,Furniture,Cause Electronics,1126.58,8,0.12,20.41
+296,ORD00296,02-07-2025,04-07-2025,Bryan Gardner,Home Office,Chennai,Furniture,These Furniture,8988.92,5,0.21,2932.53
+297,ORD00297,14-09-2025,21-09-2025,Sean Morrow,Consumer,Mumbai,Beauty,Read Electronics,4719.05,4,0.13,1072.69
+298,ORD00298,19-09-2024,20-09-2024,Alan Sharp,Home Office,Hyderabad,Beauty,Six Fashion,3366.45,3,0.31,-204.28
+299,ORD00299,07-12-2024,14-12-2024,Donna Jones,Consumer,Chennai,Furniture,Put Beauty,8431.26,3,0.26,-1166.44
+300,ORD00300,01-04-2026,08-04-2026,Miss Cassandra Evans,Home Office,Hyderabad,Fashion,Someone Beauty,3403.13,5,0.41,193.04
+301,ORD00301,18-09-2024,22-09-2024,Jimmy Yu,Consumer,Mumbai,Grocery,Very Grocery,6183.96,1,0.28,-720
+302,ORD00302,19-11-2025,23-11-2025,Jacqueline Wood,Corporate,Bangalore,Grocery,Southern Grocery,9947.75,4,0.26,3429.8
+303,ORD00303,08-03-2025,11-03-2025,Kathleen Murray,Home Office,Pune,Grocery,Rather Beauty,4846.64,8,0.01,-348.75
+304,ORD00304,04-05-2026,08-05-2026,Zachary Woodard,Home Office,Hyderabad,Electronics,Plan Fashion,2707.76,8,0.38,108.6
+305,ORD00305,25-11-2025,30-11-2025,Janet Flores,Home Office,Delhi,Fashion,Fear Fashion,227.67,5,0.03,12.91
+306,ORD00306,21-09-2024,25-09-2024,Jose Gray,Corporate,Mumbai,Electronics,Eye Beauty,395.05,9,0.14,122.05
+307,ORD00307,17-02-2025,19-02-2025,Larry Jones,Consumer,Delhi,Grocery,Record Electronics,6251.28,8,0.21,1589.77
+308,ORD00308,24-02-2026,03-03-2026,Rhonda Padilla,Corporate,Bangalore,Furniture,Very Beauty,4574.23,2,0.48,1455.22
+309,ORD00309,28-04-2025,05-05-2025,Cynthia Berger,Consumer,Delhi,Furniture,They Electronics,3504.9,4,0.12,1162.68
+310,ORD00310,21-04-2026,26-04-2026,Anthony Cole,Home Office,Bangalore,Beauty,Look Fashion,7647.43,1,0.21,1171.06
+311,ORD00311,26-11-2025,27-11-2025,Anita Santos,Corporate,Chennai,Electronics,Together Grocery,9375.26,3,0.18,37.66
+312,ORD00312,02-02-2026,03-02-2026,Sean Mueller,Corporate,Delhi,Fashion,Organization Electronics,9016.53,1,0.3,-1445.54
+313,ORD00313,23-05-2024,24-05-2024,Susan Armstrong,Corporate,Bangalore,Furniture,Only Electronics,466.6,9,0.1,-5.26
+314,ORD00314,28-11-2024,02-12-2024,Jacob Moon,Home Office,Bangalore,Fashion,Tonight Furniture,9855.03,5,0.49,839.2
+315,ORD00315,18-10-2025,21-10-2025,Sheena Simmons,Corporate,Hyderabad,Furniture,Plan Fashion,8776.29,7,0.4,2571.79
+316,ORD00316,01-11-2025,06-11-2025,Emily Walker,Home Office,Pune,Fashion,Organization Grocery,2753.38,9,0.17,777.49
+317,ORD00317,07-12-2025,08-12-2025,Austin Castillo,Corporate,Bangalore,Furniture,Notice Electronics,3474.15,5,0.18,-624.84
+318,ORD00318,15-03-2025,16-03-2025,Jill Spencer,Corporate,Hyderabad,Furniture,Order Furniture,2584.74,2,0.47,-503.8
+319,ORD00319,28-12-2025,31-12-2025,Nathaniel White,Corporate,Mumbai,Furniture,Medical Grocery,3959.25,5,0.24,-267.06
+320,ORD00320,21-11-2024,25-11-2024,Katrina Rose,Home Office,Chennai,Electronics,Live Fashion,5038.74,1,0.28,76.53
+321,ORD00321,11-02-2025,16-02-2025,John Smith III,Home Office,Pune,Fashion,Hear Fashion,3734.96,8,0.34,82
+322,ORD00322,29-04-2026,04-05-2026,Taylor Meyer,Home Office,Pune,Grocery,Occur Beauty,5515.15,3,0.04,688.7
+323,ORD00323,16-08-2025,20-08-2025,Manuel Haney,Home Office,Chennai,Fashion,Leg Electronics,5097.99,9,0.37,839.52
+324,ORD00324,20-02-2025,27-02-2025,Kristen Terrell,Corporate,Mumbai,Beauty,Media Furniture,3004.7,8,0.06,-480.08
+325,ORD00325,11-02-2025,17-02-2025,Sharon Jordan,Corporate,Chennai,Grocery,Wish Furniture,5527.25,4,0.45,-494.9
+326,ORD00326,08-01-2026,14-01-2026,Deborah Novak,Corporate,Hyderabad,Furniture,Next Fashion,3328.56,2,0.16,837.17
+327,ORD00327,25-04-2026,28-04-2026,Daniel Buck,Home Office,Delhi,Beauty,Continue Fashion,8727.09,3,0.5,2385.03
+328,ORD00328,16-01-2025,23-01-2025,Kevin Gutierrez,Consumer,Mumbai,Grocery,Way Beauty,5164.51,9,0.07,-1015.22
+329,ORD00329,22-07-2025,28-07-2025,Sara Riley,Home Office,Pune,Fashion,Either Grocery,4508.93,6,0.08,192.52
+330,ORD00330,02-04-2026,04-04-2026,Erica Gordon,Corporate,Pune,Beauty,Ago Furniture,6811.88,7,0.33,785.98
+331,ORD00331,26-09-2024,27-09-2024,Wendy Jones,Home Office,Mumbai,Electronics,World Furniture,6923.61,6,0.23,550.43
+332,ORD00332,28-07-2025,03-08-2025,Belinda Walker,Home Office,Delhi,Fashion,Risk Grocery,1979.62,7,0.05,-309.4
+333,ORD00333,23-11-2024,25-11-2024,Greg Lawrence,Consumer,Hyderabad,Beauty,Quickly Grocery,5571.33,6,0.38,1695.47
+334,ORD00334,07-06-2024,09-06-2024,Lauren Jones,Home Office,Bangalore,Furniture,Return Fashion,5868.07,8,0.23,81.15
+335,ORD00335,18-02-2026,25-02-2026,Krista Bell,Home Office,Pune,Grocery,Success Furniture,2385.99,5,0.37,-418.76
+336,ORD00336,02-06-2025,06-06-2025,Amy Wright,Corporate,Delhi,Grocery,Evidence Furniture,2786.4,5,0.09,-301.12
+337,ORD00337,27-06-2025,29-06-2025,James Owen,Corporate,Pune,Beauty,Available Fashion,7132.98,3,0.01,2258.64
+338,ORD00338,12-11-2025,17-11-2025,James Roberts,Corporate,Delhi,Fashion,Accept Electronics,1299.37,5,0.44,160.89
+339,ORD00339,16-01-2026,20-01-2026,Natalie Marshall,Corporate,Delhi,Beauty,Response Beauty,4382.36,10,0.28,-30.52
+340,ORD00340,05-11-2024,07-11-2024,Michael Martin,Consumer,Mumbai,Electronics,None Grocery,2429.88,7,0.4,770.23
+341,ORD00341,28-02-2025,03-03-2025,Robert Gonzales,Home Office,Delhi,Furniture,Republican Furniture,5756.1,10,0.38,-568.38
+342,ORD00342,16-02-2026,18-02-2026,Steven King,Corporate,Pune,Furniture,Red Fashion,9923.71,4,0.04,-1162.81
+343,ORD00343,14-11-2025,17-11-2025,Mrs. Yolanda Williams MD,Consumer,Bangalore,Fashion,Yourself Beauty,6569.76,4,0.22,-1268.77
+344,ORD00344,06-07-2025,07-07-2025,Amanda Wells,Corporate,Delhi,Grocery,Personal Electronics,379.59,3,0.12,42.06
+345,ORD00345,05-03-2026,08-03-2026,Donald Mcneil,Consumer,Bangalore,Electronics,List Fashion,1464.93,6,0.07,395.97
+346,ORD00346,30-09-2025,03-10-2025,Jodi Patterson,Consumer,Chennai,Electronics,Necessary Beauty,9050.08,7,0.25,-1805.56
+347,ORD00347,29-08-2025,05-09-2025,Michael Nichols DDS,Corporate,Mumbai,Grocery,Among Grocery,9614.37,10,0.4,-85.64
+348,ORD00348,05-08-2024,10-08-2024,Luis Lewis,Consumer,Bangalore,Grocery,Thousand Electronics,5651.82,4,0.44,-482.92
+349,ORD00349,23-11-2025,27-11-2025,Sharon Wallace,Consumer,Chennai,Furniture,Though Fashion,2352.28,10,0.36,473.96
+350,ORD00350,08-01-2025,14-01-2025,Adrian Rodriguez,Home Office,Hyderabad,Furniture,Item Grocery,5849.08,6,0.26,302.95
+351,ORD00351,22-05-2025,24-05-2025,Andrew Brown,Corporate,Bangalore,Fashion,Open Furniture,5642.36,2,0.23,-677.23
+352,ORD00352,24-12-2025,28-12-2025,Mary Garcia,Consumer,Mumbai,Grocery,House Beauty,383.8,2,0.48,21.45
+353,ORD00353,23-06-2025,26-06-2025,Jennifer Mcfarland,Corporate,Mumbai,Grocery,Information Electronics,1880.59,2,0.28,367.44
+354,ORD00354,07-01-2025,08-01-2025,Sandra Clark,Consumer,Mumbai,Electronics,Trial Furniture,154.47,9,0.47,-9.44
+355,ORD00355,03-03-2026,05-03-2026,Michelle Leach,Consumer,Bangalore,Beauty,Carry Beauty,4408.05,5,0.19,147.12
+356,ORD00356,17-04-2025,19-04-2025,Adam Washington,Home Office,Bangalore,Electronics,Water Fashion,7487.99,5,0.12,322.61
+357,ORD00357,01-10-2024,05-10-2024,Christopher Ortiz,Consumer,Delhi,Beauty,Develop Beauty,4591.73,5,0.49,1016.75
+358,ORD00358,09-08-2025,10-08-2025,William Weaver,Consumer,Mumbai,Grocery,Push Beauty,3113.04,5,0.27,-82.33
+359,ORD00359,23-03-2025,24-03-2025,Mary Durham,Home Office,Bangalore,Fashion,Look Grocery,8311.68,7,0.17,-1276.6
+360,ORD00360,01-09-2024,04-09-2024,Howard Little,Corporate,Chennai,Grocery,Edge Furniture,432.61,5,0.42,87.83
+361,ORD00361,16-12-2025,19-12-2025,Kevin Boyer,Home Office,Pune,Grocery,Many Electronics,6240.92,8,0.2,-148.75
+362,ORD00362,12-10-2025,14-10-2025,Frances Hatfield,Consumer,Delhi,Furniture,Help Grocery,2446.44,10,0.16,89.85
+363,ORD00363,15-03-2025,19-03-2025,Edward Lewis,Corporate,Pune,Furniture,Make Furniture,7685.39,1,0.19,-543.68
+364,ORD00364,05-10-2025,10-10-2025,Brian Swanson,Home Office,Mumbai,Fashion,Business Grocery,5100.61,3,0.28,1243.45
+365,ORD00365,19-08-2024,21-08-2024,David Baker,Home Office,Mumbai,Grocery,Collection Grocery,9893.56,3,0,-1829.61
+366,ORD00366,05-01-2026,10-01-2026,Brendan Berry,Home Office,Pune,Furniture,Budget Beauty,5684.89,7,0.17,441.63
+367,ORD00367,23-07-2025,25-07-2025,Leslie Schultz,Corporate,Hyderabad,Beauty,Season Grocery,5256.17,5,0.18,1027.57
+368,ORD00368,17-08-2024,22-08-2024,Marisa Adams,Corporate,Hyderabad,Fashion,Factor Furniture,3536.82,2,0.2,-500.92
+369,ORD00369,28-10-2025,01-11-2025,Dr. Albert Evans,Consumer,Mumbai,Electronics,Manager Electronics,1469.14,8,0.34,294.49
+370,ORD00370,24-01-2025,27-01-2025,Jane Munoz,Consumer,Mumbai,Electronics,Including Grocery,3798.57,1,0.47,-147.44
+371,ORD00371,26-02-2026,02-03-2026,David Rodriguez,Consumer,Bangalore,Beauty,Television Beauty,7344.66,4,0.26,2548.25
+372,ORD00372,26-11-2024,02-12-2024,Haley Hernandez,Consumer,Bangalore,Beauty,Party Grocery,6909.4,2,0.1,-707.19
+373,ORD00373,13-11-2024,17-11-2024,Kimberly Trevino,Corporate,Chennai,Electronics,Picture Fashion,9786.67,6,0.35,526.86
+374,ORD00374,03-05-2025,09-05-2025,Rebekah Ford,Consumer,Mumbai,Electronics,Him Fashion,2582.48,4,0.22,-294.59
+375,ORD00375,22-11-2025,29-11-2025,Eric Cook,Home Office,Hyderabad,Fashion,High Beauty,8247.13,10,0.28,2286.88
+376,ORD00376,21-11-2025,22-11-2025,Samuel Hawkins,Corporate,Chennai,Electronics,Dream Electronics,4101.46,2,0.43,302.44
+377,ORD00377,14-01-2026,21-01-2026,James Riley,Home Office,Delhi,Fashion,Very Furniture,2445.1,5,0.21,681.26
+378,ORD00378,13-10-2025,20-10-2025,Patrick Davila,Corporate,Mumbai,Electronics,Member Grocery,8637.99,1,0.09,440.7
+379,ORD00379,16-07-2024,19-07-2024,William Lopez,Consumer,Chennai,Beauty,Onto Beauty,3762.56,1,0.25,1264.36
+380,ORD00380,22-01-2025,29-01-2025,Ariel Ruiz,Home Office,Bangalore,Electronics,Current Furniture,8594.31,4,0.48,-1608.92
+381,ORD00381,08-03-2026,13-03-2026,Linda Washington,Corporate,Pune,Fashion,That Fashion,2447.64,2,0.27,177.04
+382,ORD00382,27-08-2025,30-08-2025,Heather Holloway,Consumer,Bangalore,Fashion,Increase Beauty,3645.5,4,0.36,1138.62
+383,ORD00383,30-05-2024,31-05-2024,Brenda Arellano,Corporate,Delhi,Furniture,Table Beauty,4019.4,9,0.41,-125.61
+384,ORD00384,12-05-2024,19-05-2024,Ashley Jones,Home Office,Pune,Fashion,Wrong Beauty,7509.92,9,0.46,-1134.25
+385,ORD00385,12-06-2024,13-06-2024,Nicole Parsons,Home Office,Pune,Furniture,American Grocery,6125.73,7,0.03,-1135.61
+386,ORD00386,31-08-2024,04-09-2024,Andre Daniels,Home Office,Mumbai,Furniture,Outside Beauty,3422.79,10,0.22,332.11
+387,ORD00387,12-05-2025,19-05-2025,Joseph Munoz,Corporate,Chennai,Beauty,Technology Grocery,9860.21,8,0.22,197.36
+388,ORD00388,03-01-2026,10-01-2026,Wayne Dominguez,Home Office,Hyderabad,Electronics,Space Furniture,5720.99,10,0.01,998.03
+389,ORD00389,17-01-2026,22-01-2026,Sandra Brown,Home Office,Bangalore,Electronics,Network Furniture,7963.4,8,0.42,-1098.1
+390,ORD00390,17-08-2025,18-08-2025,Thomas Walker,Corporate,Delhi,Beauty,Cell Fashion,5496.34,8,0.26,85.88
+391,ORD00391,04-01-2025,05-01-2025,David Holmes,Home Office,Chennai,Furniture,Allow Furniture,2063.53,8,0.17,131.92
+392,ORD00392,10-04-2026,15-04-2026,Keith Keller,Corporate,Chennai,Beauty,Spend Fashion,9824.89,8,0.37,2563.68
+393,ORD00393,27-03-2026,01-04-2026,Cassandra Lane,Corporate,Pune,Beauty,With Electronics,9731.81,9,0.33,844.3
+394,ORD00394,14-06-2024,16-06-2024,Bradley Henry,Consumer,Hyderabad,Beauty,Inside Furniture,9896.07,6,0.4,1451.96
+395,ORD00395,01-02-2026,04-02-2026,Antonio Ross,Home Office,Chennai,Electronics,Tree Beauty,2167.01,6,0.04,14.44
+396,ORD00396,13-11-2024,15-11-2024,Allison Hall,Corporate,Chennai,Electronics,Local Beauty,4628.44,3,0.13,187.15
+397,ORD00397,04-12-2025,11-12-2025,Sandra Boyer,Corporate,Delhi,Grocery,Involve Furniture,2768.3,6,0.28,692.44
+398,ORD00398,12-04-2026,14-04-2026,Maria Hall,Corporate,Pune,Beauty,Build Fashion,972.26,3,0.36,213.6
+399,ORD00399,29-08-2024,02-09-2024,Laura Garcia,Home Office,Delhi,Beauty,Somebody Furniture,5190.37,5,0.43,-914.86
+400,ORD00400,11-10-2025,18-10-2025,Vincent Ayala,Consumer,Bangalore,Fashion,Low Fashion,5202.87,2,0.44,860.67
+401,ORD00401,30-03-2026,31-03-2026,Patrick Campbell,Consumer,Delhi,Fashion,Win Furniture,9212.17,4,0.03,-1701.81
+402,ORD00402,20-09-2025,27-09-2025,Susan Davis,Corporate,Hyderabad,Beauty,Increase Beauty,4793.35,10,0.23,-140.15
+403,ORD00403,07-02-2026,13-02-2026,Steven Weaver,Consumer,Bangalore,Beauty,Good Furniture,5656.72,5,0.4,-160.43
+404,ORD00404,04-10-2025,05-10-2025,Todd Lynch,Corporate,Chennai,Furniture,Education Beauty,7751.35,6,0.41,2226.88
+405,ORD00405,30-07-2024,03-08-2024,Mark Wagner,Corporate,Pune,Furniture,Discussion Electronics,5648.66,3,0.2,271.48
+406,ORD00406,10-12-2024,15-12-2024,Frank Miller,Corporate,Mumbai,Electronics,Choice Beauty,3021.14,8,0.18,845.38
+407,ORD00407,24-09-2024,25-09-2024,Vincent Grant,Home Office,Mumbai,Beauty,Personal Grocery,9496.87,4,0.04,684.9
+408,ORD00408,16-04-2026,18-04-2026,Roger Jefferson,Home Office,Hyderabad,Grocery,Party Furniture,819.22,10,0.42,184.3
+409,ORD00409,24-08-2025,31-08-2025,Heather Brooks,Consumer,Delhi,Electronics,Production Furniture,2267.93,4,0.37,605.91
+410,ORD00410,09-10-2025,14-10-2025,Kaitlyn Jacobson,Consumer,Hyderabad,Furniture,Class Beauty,9326.73,10,0.26,1725.66
+411,ORD00411,15-11-2025,18-11-2025,Rachel Lara,Consumer,Hyderabad,Furniture,Television Beauty,9953.03,5,0.16,2840.85
+412,ORD00412,23-06-2024,30-06-2024,Dustin Nixon,Corporate,Pune,Fashion,Smile Beauty,7324.55,10,0.48,611.68
+413,ORD00413,17-11-2024,19-11-2024,Ricky Newman,Home Office,Bangalore,Fashion,Himself Electronics,3210.84,7,0.05,777.17
+414,ORD00414,17-01-2025,23-01-2025,Peter Ferguson,Home Office,Chennai,Furniture,Record Beauty,3564.18,10,0.49,405.32
+415,ORD00415,26-01-2025,30-01-2025,Daniel Martinez,Corporate,Delhi,Grocery,Day Furniture,1935.86,6,0.22,-384.29
+416,ORD00416,09-04-2026,15-04-2026,Scott Davis,Home Office,Mumbai,Electronics,Congress Electronics,5835.14,8,0.38,44.38
+417,ORD00417,27-10-2024,01-11-2024,Deborah Fowler,Home Office,Chennai,Grocery,Machine Beauty,5776.09,6,0.15,929.89
+418,ORD00418,08-11-2025,15-11-2025,Ryan Tucker,Corporate,Chennai,Beauty,Value Electronics,3613.17,10,0.26,-721.95
+419,ORD00419,11-08-2024,12-08-2024,Stephen Ortiz,Home Office,Delhi,Electronics,Return Fashion,2884.68,4,0.29,542.27
+420,ORD00420,24-10-2024,26-10-2024,Amber Alexander,Home Office,Pune,Electronics,Notice Grocery,1877.68,7,0.09,-88.01
+421,ORD00421,26-03-2025,02-04-2025,Meagan Montes,Corporate,Pune,Grocery,Capital Fashion,3685.57,5,0.43,1017.47
+422,ORD00422,15-02-2025,18-02-2025,Carlos Coleman,Corporate,Bangalore,Grocery,Protect Grocery,1852.67,10,0.16,247.89
+423,ORD00423,30-09-2025,02-10-2025,Christopher Wyatt,Consumer,Delhi,Grocery,Republican Furniture,4881.38,6,0.07,1413.62
+424,ORD00424,06-05-2024,11-05-2024,Lindsay Mcbride,Corporate,Hyderabad,Fashion,Area Furniture,6321.47,8,0.45,581.17
+425,ORD00425,04-10-2024,08-10-2024,James Cummings,Consumer,Delhi,Grocery,They Fashion,2428.82,4,0.31,598.15
+426,ORD00426,29-05-2024,02-06-2024,Sean Watkins,Corporate,Hyderabad,Furniture,Morning Electronics,2072.28,1,0.11,87.12
+427,ORD00427,20-12-2025,24-12-2025,Robert Smith,Corporate,Pune,Beauty,Front Grocery,9813.31,1,0.06,100.3
+428,ORD00428,15-06-2025,18-06-2025,John Smith,Consumer,Delhi,Fashion,Action Electronics,1695.44,1,0.44,-201.5
+429,ORD00429,15-12-2024,17-12-2024,Jeffrey Guerra,Consumer,Chennai,Electronics,Least Beauty,8232.6,5,0.36,-318.58
+430,ORD00430,09-07-2024,11-07-2024,Robert Anderson,Home Office,Bangalore,Grocery,Piece Fashion,2185.43,8,0.04,-434.85
+431,ORD00431,06-02-2026,10-02-2026,William Villa,Consumer,Delhi,Electronics,Only Furniture,8586.52,6,0.34,-490.28
+432,ORD00432,07-08-2024,08-08-2024,Laurie Richardson,Consumer,Bangalore,Beauty,End Furniture,1905.05,10,0.39,518.88
+433,ORD00433,16-04-2026,19-04-2026,Eric Curtis,Home Office,Delhi,Beauty,Body Fashion,353.87,8,0.35,-49.3
+434,ORD00434,15-05-2025,18-05-2025,Brandon Weber,Corporate,Bangalore,Fashion,Interesting Electronics,9157.11,10,0.04,2237.19
+435,ORD00435,29-03-2025,04-04-2025,Evan Smith,Consumer,Mumbai,Beauty,Hair Electronics,1358.18,7,0.4,-77.65
+436,ORD00436,01-04-2025,04-04-2025,Robert Delgado,Consumer,Hyderabad,Fashion,Pm Beauty,2910.05,7,0.03,455.89
+437,ORD00437,03-08-2025,06-08-2025,Deborah Thomas,Home Office,Delhi,Fashion,Close Fashion,8244.92,3,0.23,948.06
+438,ORD00438,14-06-2024,15-06-2024,Michelle Francis,Consumer,Hyderabad,Electronics,Anything Electronics,4478.28,10,0.14,-26.46
+439,ORD00439,15-01-2026,21-01-2026,Olivia Pope,Corporate,Delhi,Furniture,Action Beauty,5229.66,4,0.29,1131.26
+440,ORD00440,11-12-2025,17-12-2025,Maria Burgess,Home Office,Pune,Grocery,East Furniture,4005.14,9,0.16,-244.86
+441,ORD00441,21-05-2024,25-05-2024,Michael Cox,Corporate,Mumbai,Electronics,First Beauty,4674.52,4,0.09,990.27
+442,ORD00442,03-08-2024,08-08-2024,Carol Figueroa,Consumer,Bangalore,Beauty,Power Furniture,8374.01,3,0.31,-481.21
+443,ORD00443,18-06-2024,19-06-2024,Maria Zavala,Corporate,Mumbai,Furniture,On Furniture,1554.4,7,0.44,416.74
+444,ORD00444,20-08-2024,24-08-2024,Evelyn Ward,Consumer,Bangalore,Grocery,Size Beauty,9901.11,1,0.02,2431.81
+445,ORD00445,11-11-2025,15-11-2025,Bradley Day,Consumer,Delhi,Grocery,Exist Beauty,4413.28,2,0.09,1121.68
+446,ORD00446,04-08-2024,08-08-2024,Amber Bass,Consumer,Delhi,Beauty,That Fashion,3246.13,1,0.41,773.7
+447,ORD00447,05-07-2024,09-07-2024,James Carter,Consumer,Bangalore,Beauty,Least Electronics,4281.77,7,0.31,1297.91
+448,ORD00448,10-01-2026,16-01-2026,Cynthia Bryant,Home Office,Pune,Furniture,Too Beauty,877.96,7,0.42,-80.23
+449,ORD00449,16-02-2025,17-02-2025,Kristina Chavez,Home Office,Bangalore,Fashion,Difficult Beauty,5636.96,1,0.13,707.7
+450,ORD00450,12-06-2024,18-06-2024,Gabriel Mullen,Home Office,Hyderabad,Beauty,Over Electronics,7821.63,4,0.24,435.55
+451,ORD00451,14-05-2024,17-05-2024,April Rodriguez,Corporate,Hyderabad,Beauty,Off Grocery,8581.91,6,0.44,-514.53
+452,ORD00452,22-02-2025,01-03-2025,Madeline Owen,Consumer,Hyderabad,Fashion,Treatment Electronics,9782.7,4,0.29,3000.3
+453,ORD00453,07-04-2026,12-04-2026,Kim Perkins,Corporate,Bangalore,Grocery,Official Beauty,8817.2,4,0.41,-602.01
+454,ORD00454,01-02-2025,08-02-2025,Anthony Reyes,Corporate,Pune,Beauty,Listen Electronics,9083.06,1,0.01,741.49
+455,ORD00455,26-02-2026,03-03-2026,Mr. Billy Rodriguez,Corporate,Chennai,Grocery,Act Grocery,1483.28,2,0.4,398.5
+456,ORD00456,31-08-2024,07-09-2024,Heather Andrews,Corporate,Hyderabad,Fashion,Heart Furniture,9132.27,10,0.05,2425.43
+457,ORD00457,08-09-2025,14-09-2025,Danielle Lopez,Home Office,Delhi,Fashion,Agent Beauty,7063.53,4,0.03,-820.62
+458,ORD00458,24-07-2025,29-07-2025,Andrew Spencer,Corporate,Pune,Furniture,Shake Fashion,8921.12,9,0.11,1291.02
+459,ORD00459,09-03-2025,14-03-2025,Michael Burns,Consumer,Pune,Furniture,These Furniture,4650.42,5,0.12,-34.67
+460,ORD00460,20-06-2024,22-06-2024,Paula Perez,Home Office,Bangalore,Grocery,Inside Furniture,3424.36,3,0.47,1177.82
+461,ORD00461,22-02-2026,28-02-2026,Mrs. Crystal Price,Consumer,Hyderabad,Beauty,Film Grocery,8679.52,2,0.03,-102.89
+462,ORD00462,25-05-2024,31-05-2024,Tara Anderson,Home Office,Mumbai,Furniture,Popular Furniture,5878.27,5,0.08,-169.86
+463,ORD00463,09-11-2024,11-11-2024,Stephanie Martin,Home Office,Bangalore,Fashion,Especially Furniture,6527.91,5,0.05,1212.15
+464,ORD00464,12-11-2025,14-11-2025,Thomas Stewart,Consumer,Delhi,Electronics,Build Grocery,4416.81,1,0.01,406.15
+465,ORD00465,15-01-2026,21-01-2026,Tammy Chapman,Home Office,Pune,Electronics,General Furniture,7135.42,3,0.36,1927.84
+466,ORD00466,04-12-2025,07-12-2025,Steve Flynn,Home Office,Delhi,Fashion,Three Electronics,2131.17,5,0.41,-221.85
+467,ORD00467,20-12-2025,24-12-2025,Kenneth Griffin,Corporate,Chennai,Beauty,Produce Fashion,1182.53,2,0.28,290.58
+468,ORD00468,19-06-2025,23-06-2025,Luis Nichols,Home Office,Bangalore,Beauty,Deal Electronics,7029.96,1,0.17,-510.11
+469,ORD00469,16-12-2025,21-12-2025,John Boyd,Corporate,Hyderabad,Fashion,Set Electronics,8829.97,8,0.26,1149.59
+470,ORD00470,02-07-2025,03-07-2025,Stacey Barnes,Consumer,Hyderabad,Furniture,Space Grocery,405.35,1,0.23,55.39
+471,ORD00471,17-07-2025,23-07-2025,Donald Weaver,Consumer,Bangalore,Fashion,Tonight Grocery,4258.76,2,0.48,466.91
+472,ORD00472,25-04-2025,26-04-2025,Jason Lowery,Corporate,Hyderabad,Furniture,Enjoy Fashion,4591.99,6,0.02,318.86
+473,ORD00473,16-01-2025,18-01-2025,Anna Berry,Consumer,Hyderabad,Grocery,President Beauty,6583.59,9,0.03,89.44
+474,ORD00474,25-10-2025,29-10-2025,Luke Rodriguez,Consumer,Bangalore,Furniture,Who Furniture,9359.07,5,0.41,2751.47
+475,ORD00475,06-05-2024,12-05-2024,Angela Smith,Home Office,Chennai,Beauty,Mother Fashion,1910.82,10,0.47,300.53
+476,ORD00476,15-08-2024,19-08-2024,Christian Richard,Home Office,Delhi,Fashion,Growth Fashion,6331.1,5,0.31,2188.65
+477,ORD00477,18-04-2025,20-04-2025,Jennifer Allen,Consumer,Hyderabad,Electronics,Mother Fashion,8400.28,3,0.49,-395.31
+478,ORD00478,25-05-2024,01-06-2024,Alicia Wiley,Consumer,Delhi,Grocery,Lead Furniture,8904.08,3,0.05,2326.08
+479,ORD00479,12-04-2026,15-04-2026,Mark Jones,Corporate,Hyderabad,Grocery,Something Electronics,304.32,7,0.3,89.79
+480,ORD00480,08-03-2025,13-03-2025,Paul Olsen,Consumer,Chennai,Electronics,Season Fashion,9726.04,9,0.26,1766.01
+481,ORD00481,27-07-2025,30-07-2025,Anne Mason,Home Office,Chennai,Beauty,Employee Furniture,4853.44,2,0.37,-311.45
+482,ORD00482,27-06-2025,30-06-2025,Robert Durham,Home Office,Hyderabad,Furniture,Future Beauty,8821.88,2,0.26,-63.84
+483,ORD00483,16-06-2025,17-06-2025,Lisa Griffin,Corporate,Delhi,Grocery,Baby Electronics,3907.08,4,0.28,-384.03
+484,ORD00484,06-10-2025,09-10-2025,Frances Jones,Corporate,Hyderabad,Fashion,Political Electronics,9687.02,8,0.05,3183.73
+485,ORD00485,22-01-2025,29-01-2025,Dr. Rachel Mayo,Corporate,Delhi,Beauty,Suffer Electronics,9286.5,8,0.47,957.35
+486,ORD00486,30-05-2024,03-06-2024,Jason Miller,Home Office,Hyderabad,Grocery,Billion Furniture,4547.13,6,0.09,-702.28
+487,ORD00487,11-02-2025,12-02-2025,Megan Lee,Corporate,Bangalore,Grocery,Husband Furniture,1420.66,8,0.43,308.66
+488,ORD00488,01-07-2025,05-07-2025,John Morales,Home Office,Chennai,Electronics,Long Fashion,8361.8,2,0.49,-544.66
+489,ORD00489,21-08-2025,26-08-2025,Devon Tucker,Home Office,Hyderabad,Furniture,Least Beauty,7274.4,4,0.24,2297.72
+490,ORD00490,31-01-2026,06-02-2026,Kenneth Tate,Consumer,Hyderabad,Furniture,Positive Fashion,3712.88,3,0.3,-737.16
+491,ORD00491,27-01-2025,03-02-2025,Denise Carroll,Corporate,Bangalore,Furniture,Foot Grocery,1998.57,7,0.05,-373.11
+492,ORD00492,10-03-2026,13-03-2026,Crystal Anderson,Corporate,Bangalore,Electronics,Trouble Furniture,4965.34,10,0.22,699.15
+493,ORD00493,13-07-2025,14-07-2025,Brittany Smith,Consumer,Bangalore,Beauty,Pm Grocery,3675.58,3,0.36,578.42
+494,ORD00494,17-07-2024,23-07-2024,Kevin Jensen,Corporate,Delhi,Grocery,Father Furniture,3849.22,8,0.13,457.61
+495,ORD00495,20-05-2025,21-05-2025,Joseph Hubbard,Consumer,Mumbai,Grocery,Measure Grocery,7473.45,2,0.13,2464.85
+496,ORD00496,29-05-2024,04-06-2024,Donna Evans,Corporate,Mumbai,Furniture,Inside Grocery,3977.28,10,0.36,1200.45
+497,ORD00497,12-04-2025,19-04-2025,Mike Stewart,Corporate,Delhi,Beauty,Listen Fashion,5432.75,4,0.46,534.52
+498,ORD00498,24-06-2024,27-06-2024,David Smith,Corporate,Pune,Grocery,Three Grocery,4222.05,2,0.12,962.65
+499,ORD00499,07-09-2025,10-09-2025,Donna Mitchell,Consumer,Bangalore,Beauty,Herself Fashion,2915.36,5,0.1,-410.62
+500,ORD00500,10-04-2026,11-04-2026,Gerald Ballard,Home Office,Chennai,Fashion,Degree Furniture,6368,9,0.5,76.89
+501,ORD00501,10-12-2024,13-12-2024,Joseph Bryant,Consumer,Mumbai,Electronics,Past Fashion,7725.71,9,0.22,2337.73
+502,ORD00502,27-05-2025,31-05-2025,Bobby Ball,Corporate,Mumbai,Beauty,Simply Fashion,1003.06,9,0.4,273.31
+503,ORD00503,25-02-2025,03-03-2025,Ashley Porter,Consumer,Hyderabad,Fashion,Usually Furniture,1638.56,5,0.35,278.48
+504,ORD00504,21-02-2025,25-02-2025,Jason Ramos,Consumer,Delhi,Beauty,Across Beauty,2366.78,10,0.29,-385.33
+505,ORD00505,08-06-2024,11-06-2024,Jane Donovan,Consumer,Mumbai,Grocery,Billion Grocery,9176.3,10,0.19,1563.28
+506,ORD00506,06-05-2024,09-05-2024,Joseph Vaughan,Consumer,Pune,Beauty,Discussion Fashion,2304.19,1,0.19,244.08
+507,ORD00507,28-06-2025,02-07-2025,David Gray,Home Office,Pune,Grocery,Police Electronics,2458.04,6,0.21,405.31
+508,ORD00508,06-03-2026,08-03-2026,Robert King,Home Office,Bangalore,Grocery,Relationship Furniture,6146.47,3,0.07,-661.99
+509,ORD00509,11-03-2026,18-03-2026,Allison Dawson,Corporate,Hyderabad,Beauty,Dog Grocery,3298.4,5,0.08,-365.73
+510,ORD00510,17-04-2026,24-04-2026,Cameron Miller,Corporate,Chennai,Furniture,Entire Electronics,4065.72,8,0.34,997.7
+511,ORD00511,25-03-2026,30-03-2026,Terry Pearson,Corporate,Bangalore,Grocery,Probably Fashion,9066.53,1,0.06,413.65
+512,ORD00512,25-12-2024,01-01-2025,Wendy Mcguire,Consumer,Chennai,Furniture,Movie Furniture,9221.59,2,0.19,2494.78
+513,ORD00513,18-09-2024,24-09-2024,Nicole Wright,Home Office,Bangalore,Electronics,Inside Beauty,8523.24,4,0.39,-385.72
+514,ORD00514,24-08-2024,30-08-2024,Derek Craig,Home Office,Mumbai,Grocery,Debate Furniture,7224.53,5,0.29,-639.61
+515,ORD00515,18-12-2025,24-12-2025,Daniel Mccormick,Home Office,Mumbai,Grocery,Beautiful Electronics,5736.99,7,0.18,324.27
+516,ORD00516,22-10-2024,28-10-2024,Deborah Holmes,Consumer,Bangalore,Furniture,Identify Fashion,1004.82,4,0.18,344.66
+517,ORD00517,17-08-2024,19-08-2024,Meagan Oliver,Home Office,Hyderabad,Electronics,Indicate Electronics,4352.07,8,0.08,523.18
+518,ORD00518,07-11-2025,13-11-2025,Travis Leonard,Consumer,Bangalore,Beauty,Sure Beauty,6252.67,2,0.32,879.41
+519,ORD00519,06-12-2024,10-12-2024,Daniel Hardy,Consumer,Delhi,Beauty,Build Electronics,2606.86,4,0.5,139.36
+520,ORD00520,27-08-2025,03-09-2025,Kelly Brandt,Consumer,Mumbai,Furniture,Last Electronics,6708.94,1,0.46,-42.85
+521,ORD00521,18-06-2025,21-06-2025,Dr. Amy Lewis,Consumer,Mumbai,Fashion,Yourself Furniture,4486.27,4,0.04,690.65
+522,ORD00522,12-05-2025,14-05-2025,Vickie Beasley,Corporate,Pune,Grocery,Walk Beauty,4467.76,3,0.27,1505.51
+523,ORD00523,19-10-2024,20-10-2024,Julia Welch,Corporate,Chennai,Beauty,May Grocery,6668.97,2,0.38,-855.15
+524,ORD00524,27-01-2026,02-02-2026,Gary Brown,Corporate,Hyderabad,Fashion,Better Grocery,4061.53,3,0.07,-809.08
+525,ORD00525,18-03-2025,23-03-2025,Juan Wright,Home Office,Pune,Beauty,Company Beauty,3578.71,10,0.24,994.19
+526,ORD00526,27-11-2024,30-11-2024,Susan Torres,Home Office,Pune,Beauty,Available Furniture,4481.41,7,0.35,468.94
+527,ORD00527,16-03-2025,22-03-2025,Chad Garrison,Corporate,Bangalore,Furniture,Price Beauty,6231.94,7,0.22,1313.48
+528,ORD00528,08-11-2025,14-11-2025,Carolyn Ward,Consumer,Hyderabad,Grocery,Movement Grocery,4680.47,9,0.37,1374.44
+529,ORD00529,29-12-2025,04-01-2026,Willie Ellis,Corporate,Chennai,Furniture,Thing Grocery,1237.87,4,0.06,-82.68
+530,ORD00530,03-04-2026,10-04-2026,Natasha Buchanan,Consumer,Mumbai,Fashion,Such Grocery,8892.22,5,0.02,2097.35
+531,ORD00531,02-04-2025,04-04-2025,Cameron Soto,Consumer,Bangalore,Furniture,Sense Electronics,4032.78,4,0.02,422.33
+532,ORD00532,27-02-2025,05-03-2025,Jennifer Johnson,Consumer,Chennai,Fashion,Year Grocery,1534.43,10,0.17,194.83
+533,ORD00533,16-08-2025,18-08-2025,Robert Colon,Home Office,Hyderabad,Electronics,Represent Beauty,8278.74,5,0.02,-625.75
+534,ORD00534,27-08-2025,29-08-2025,Marcus Tate,Consumer,Mumbai,Electronics,Value Furniture,3113.57,8,0.45,175.06
+535,ORD00535,25-01-2026,01-02-2026,Mark Woodard,Consumer,Chennai,Beauty,Interest Beauty,9759.56,2,0.43,56.17
+536,ORD00536,15-02-2025,21-02-2025,Michael Hanson,Home Office,Pune,Furniture,Article Beauty,3854.99,7,0.39,-55.73
+537,ORD00537,29-08-2025,05-09-2025,Robert Carey,Home Office,Pune,Fashion,Truth Furniture,7078.74,3,0.47,316.18
+538,ORD00538,22-11-2025,24-11-2025,James Thompson,Corporate,Chennai,Electronics,A Grocery,4734.39,4,0.14,109.82
+539,ORD00539,30-11-2024,02-12-2024,Brenda Garcia,Consumer,Chennai,Electronics,Rest Beauty,1123.34,9,0.14,65.95
+540,ORD00540,29-10-2025,31-10-2025,Savannah Myers,Corporate,Hyderabad,Grocery,Imagine Fashion,4673.46,4,0.3,126.55
+541,ORD00541,06-07-2025,07-07-2025,Rebecca Hebert,Home Office,Mumbai,Furniture,Beyond Furniture,6615.2,3,0.2,-644.46
+542,ORD00542,24-04-2026,01-05-2026,Kevin Vargas,Home Office,Pune,Grocery,List Beauty,5313.54,7,0.26,-117.15
+543,ORD00543,30-11-2025,01-12-2025,Cynthia Torres,Home Office,Bangalore,Grocery,Only Electronics,8484.99,4,0.06,1884.67
+544,ORD00544,19-01-2025,26-01-2025,Mrs. Julia Phillips,Consumer,Chennai,Electronics,Party Fashion,8827.66,10,0.44,574.78
+545,ORD00545,27-12-2025,03-01-2026,Kimberly Miller,Home Office,Mumbai,Beauty,Office Grocery,5542.38,9,0.23,-688.26
+546,ORD00546,14-11-2024,20-11-2024,Brandon Fitzgerald,Consumer,Bangalore,Beauty,Common Grocery,4521.55,4,0.47,806.2
+547,ORD00547,09-11-2024,12-11-2024,David Burgess,Consumer,Chennai,Beauty,Create Furniture,2178.12,1,0.27,-142.89
+548,ORD00548,21-06-2025,26-06-2025,Hunter Aguilar,Consumer,Mumbai,Fashion,Poor Furniture,9315.79,8,0.22,-989.39
+549,ORD00549,25-03-2025,30-03-2025,Kelly Rice,Corporate,Chennai,Grocery,Report Furniture,7008.46,8,0.45,2087.47
+550,ORD00550,14-03-2026,17-03-2026,Nicholas Nguyen,Corporate,Delhi,Furniture,Remember Beauty,6549.34,7,0.43,-311.21
+551,ORD00551,30-06-2024,02-07-2024,Mitchell Lynn,Corporate,Bangalore,Fashion,Whether Grocery,8536.59,2,0.23,2729.25
+552,ORD00552,27-11-2025,03-12-2025,Jo Vega,Home Office,Hyderabad,Grocery,There Fashion,1719.71,7,0.34,-310.85
+553,ORD00553,16-07-2025,18-07-2025,Anthony Fletcher,Home Office,Pune,Electronics,Most Furniture,1524.62,5,0.15,496.83
+554,ORD00554,25-12-2025,28-12-2025,Miguel Lopez MD,Home Office,Mumbai,Beauty,Lay Electronics,281.01,8,0.39,20.79
+555,ORD00555,30-08-2024,04-09-2024,Valerie Simpson,Consumer,Chennai,Electronics,Industry Beauty,1285.81,9,0.2,32.71
+556,ORD00556,18-09-2025,19-09-2025,Bryce Alexander,Home Office,Hyderabad,Furniture,Yes Grocery,9114.32,4,0.12,2254.31
+557,ORD00557,19-08-2024,25-08-2024,Steven Smith,Consumer,Pune,Grocery,Determine Fashion,2547.38,8,0.07,-502.5
+558,ORD00558,12-04-2026,19-04-2026,Christian Murray,Corporate,Chennai,Electronics,Large Furniture,5454.86,2,0.03,192.82
+559,ORD00559,06-12-2024,11-12-2024,James Hammond,Home Office,Delhi,Electronics,Still Furniture,1408.62,5,0.39,364.03
+560,ORD00560,01-03-2025,07-03-2025,Lisa Cardenas,Consumer,Chennai,Furniture,Professional Fashion,9138.36,10,0.23,-237
+561,ORD00561,05-12-2024,08-12-2024,Martha Roman,Consumer,Delhi,Electronics,Leave Electronics,4494.3,5,0.1,208.74
+562,ORD00562,08-07-2025,10-07-2025,Ryan Bauer,Corporate,Delhi,Furniture,Seem Fashion,9060.35,9,0.39,3139.89
+563,ORD00563,28-02-2025,06-03-2025,Lisa Johnson,Home Office,Bangalore,Beauty,Your Electronics,640.72,8,0.11,-11.43
+564,ORD00564,19-12-2024,20-12-2024,Kathryn Perry,Home Office,Chennai,Beauty,Yet Fashion,9929.28,3,0.47,1320.7
+565,ORD00565,14-06-2024,16-06-2024,Ronald Terry,Corporate,Bangalore,Furniture,Letter Beauty,5849.34,1,0.09,-17.78
+566,ORD00566,23-06-2024,30-06-2024,Dr. Jamie Howe MD,Home Office,Hyderabad,Electronics,Across Grocery,4441.77,7,0.1,-147.74
+567,ORD00567,25-06-2025,30-06-2025,Benjamin Kim,Consumer,Pune,Furniture,Candidate Electronics,1302.56,10,0.06,354.87
+568,ORD00568,19-10-2024,20-10-2024,Scott Adams,Home Office,Pune,Electronics,Write Grocery,4956.06,5,0.43,-516.87
+569,ORD00569,03-02-2025,05-02-2025,Thomas Carter,Home Office,Bangalore,Beauty,Require Fashion,4322.62,9,0.23,227.43
+570,ORD00570,30-04-2026,03-05-2026,Joanna Saunders,Consumer,Mumbai,Grocery,Couple Grocery,5264.25,9,0.28,-212.72
+571,ORD00571,18-03-2025,20-03-2025,April Mcneil,Home Office,Chennai,Electronics,Agent Grocery,7701.84,3,0.06,-1115.83
+572,ORD00572,17-01-2026,20-01-2026,Kaitlyn Ellis DDS,Corporate,Chennai,Beauty,Writer Grocery,3242.69,9,0.45,692.9
+573,ORD00573,16-02-2025,23-02-2025,Ryan Roach,Consumer,Hyderabad,Fashion,Remain Grocery,6987.7,10,0.29,-676.48
+574,ORD00574,17-09-2025,22-09-2025,Nancy Walters,Consumer,Bangalore,Beauty,See Furniture,3838.81,8,0.05,-559.67
+575,ORD00575,02-01-2025,03-01-2025,Joshua Freeman,Corporate,Bangalore,Electronics,Responsibility Electronics,2012.36,7,0.38,555.2
+576,ORD00576,05-11-2025,10-11-2025,Lori Johnson,Home Office,Bangalore,Beauty,Then Grocery,2093.24,2,0.14,681.81
+577,ORD00577,11-08-2025,16-08-2025,David Allen,Corporate,Chennai,Beauty,Crime Grocery,9655.73,6,0.46,2079.26
+578,ORD00578,23-06-2024,28-06-2024,Valerie Obrien,Home Office,Bangalore,Beauty,Explain Grocery,8820.67,9,0.27,-1453.23
+579,ORD00579,29-08-2025,03-09-2025,Misty Mullen,Corporate,Pune,Beauty,Near Fashion,443.54,2,0.04,29.07
+580,ORD00580,03-01-2026,08-01-2026,Eric Lang,Home Office,Mumbai,Electronics,Practice Beauty,5531.05,5,0.06,81.06
+581,ORD00581,19-03-2026,25-03-2026,Jason Cooper,Consumer,Bangalore,Furniture,Throughout Furniture,6877.63,8,0.49,1576.03
+582,ORD00582,16-07-2025,19-07-2025,Janet Anderson,Consumer,Pune,Fashion,Table Fashion,5397.65,1,0.43,1702.89
+583,ORD00583,09-04-2025,10-04-2025,Melody Davis,Corporate,Bangalore,Furniture,Collection Fashion,4320.82,3,0.32,81.88
+584,ORD00584,07-01-2025,13-01-2025,Timothy Wolfe,Consumer,Bangalore,Beauty,Their Fashion,1377.23,1,0.12,142.24
+585,ORD00585,28-06-2024,29-06-2024,Michelle Smith,Corporate,Mumbai,Beauty,Board Grocery,6954.31,7,0.14,-282.93
+586,ORD00586,15-09-2025,18-09-2025,Michael Thompson,Corporate,Pune,Fashion,Employee Fashion,5346.16,2,0.12,-736.57
+587,ORD00587,14-08-2025,18-08-2025,Heather Melendez,Consumer,Mumbai,Electronics,Claim Furniture,4543.48,8,0.4,-707.81
+588,ORD00588,24-10-2024,25-10-2024,Dr. Patrick Rodriguez,Corporate,Mumbai,Fashion,Join Furniture,4398.35,5,0.05,1386.07
+589,ORD00589,05-11-2025,08-11-2025,Maria Tucker,Home Office,Hyderabad,Beauty,Too Grocery,3919.33,10,0.5,448.45
+590,ORD00590,21-09-2024,26-09-2024,Jordan Mathis,Corporate,Chennai,Electronics,Brother Electronics,6990.45,2,0.09,1561.29
+591,ORD00591,09-01-2025,10-01-2025,Samuel Hawkins,Consumer,Delhi,Grocery,Color Electronics,9775.69,5,0.31,1424.21
+592,ORD00592,01-07-2025,06-07-2025,Mr. Aaron Merritt MD,Consumer,Mumbai,Fashion,Look Fashion,1208.1,2,0.21,-205.26
+593,ORD00593,02-02-2026,07-02-2026,Richard Barrett,Home Office,Hyderabad,Grocery,Thank Grocery,3393.49,8,0.3,952.6
+594,ORD00594,02-08-2025,04-08-2025,Frank Robinson,Consumer,Chennai,Electronics,Drop Fashion,3039.78,3,0.33,-473.8
+595,ORD00595,31-03-2025,02-04-2025,Nicholas Patton,Corporate,Hyderabad,Furniture,Property Fashion,6897.15,3,0.2,427.97
+596,ORD00596,18-08-2025,22-08-2025,Mary Lane,Consumer,Mumbai,Furniture,Reveal Grocery,5447.43,9,0.15,-65.24
+597,ORD00597,04-08-2024,05-08-2024,Jordan Carr,Consumer,Delhi,Grocery,Final Fashion,2230.08,8,0.43,716.17
+598,ORD00598,02-05-2025,03-05-2025,Jenny Wright,Corporate,Delhi,Electronics,For Beauty,3406.93,1,0.1,361.6
+599,ORD00599,03-12-2024,08-12-2024,Jennifer Lewis,Consumer,Pune,Furniture,Change Electronics,3071.77,9,0.04,-270.73
+600,ORD00600,22-04-2026,24-04-2026,Kimberly Reynolds,Consumer,Mumbai,Electronics,It Electronics,9899.63,5,0.16,-42.01
+601,ORD00601,09-02-2026,13-02-2026,Michael Davis,Corporate,Bangalore,Fashion,What Fashion,9868.33,7,0.2,-965.43
+602,ORD00602,23-05-2024,27-05-2024,Amy Hurst,Consumer,Pune,Electronics,Step Grocery,8014.12,2,0.14,-627.16
+603,ORD00603,23-02-2026,25-02-2026,Teresa Turner,Consumer,Bangalore,Beauty,Item Beauty,1293.75,1,0.47,-182.61
+604,ORD00604,17-07-2024,24-07-2024,Heather Arellano,Home Office,Hyderabad,Grocery,Result Electronics,8571.71,4,0.38,1985.41
+605,ORD00605,03-09-2024,07-09-2024,Bethany Benjamin,Corporate,Delhi,Beauty,List Electronics,4580.43,1,0.34,-604.06
+606,ORD00606,25-11-2024,28-11-2024,Duane Johnson,Home Office,Chennai,Grocery,Image Beauty,1387.15,3,0.25,3.16
+607,ORD00607,14-10-2024,21-10-2024,Darren Moore,Home Office,Hyderabad,Beauty,Difference Beauty,3717.66,5,0.31,-617.08
+608,ORD00608,12-07-2025,15-07-2025,Melissa Chung,Corporate,Chennai,Beauty,Personal Furniture,8280.92,10,0.17,1366.99
+609,ORD00609,23-08-2024,28-08-2024,Brandon Thomas,Home Office,Chennai,Beauty,Nice Electronics,4749,4,0.26,1039.26
+610,ORD00610,10-01-2025,14-01-2025,Danielle Harris,Corporate,Bangalore,Electronics,Behavior Grocery,1563,8,0.06,-300.77
+611,ORD00611,15-06-2025,22-06-2025,Anne Nelson,Consumer,Bangalore,Electronics,Keep Electronics,1335.08,8,0.12,-17.31
+612,ORD00612,16-07-2024,17-07-2024,Jessica Jones,Corporate,Mumbai,Grocery,Board Beauty,6262.76,10,0.33,1885.38
+613,ORD00613,21-02-2026,25-02-2026,Angelica Mullen,Home Office,Bangalore,Beauty,Go Grocery,6513.45,8,0.04,2030.48
+614,ORD00614,24-11-2025,26-11-2025,Michael Fox,Consumer,Delhi,Beauty,Structure Grocery,3611.89,6,0.36,411.03
+615,ORD00615,08-04-2026,13-04-2026,Taylor Garcia,Consumer,Bangalore,Grocery,Service Beauty,7602.59,2,0.22,449.49
+616,ORD00616,28-04-2026,02-05-2026,Anna Page,Home Office,Bangalore,Grocery,Energy Fashion,2941.54,9,0.33,970.56
+617,ORD00617,23-02-2025,01-03-2025,Rose Hall,Consumer,Hyderabad,Furniture,Consumer Furniture,5070.12,8,0.41,-389.96
+618,ORD00618,25-09-2025,27-09-2025,Leslie Fox,Home Office,Bangalore,Grocery,Plan Furniture,7843.76,10,0.4,2708.91
+619,ORD00619,26-12-2024,01-01-2025,Maria Casey,Home Office,Chennai,Electronics,Because Fashion,3549.18,2,0.06,1146.17
+620,ORD00620,06-06-2024,12-06-2024,Michael Roberts,Home Office,Chennai,Beauty,Southern Furniture,5911.57,9,0.11,803.24
+621,ORD00621,26-11-2024,03-12-2024,Robert Munoz,Corporate,Delhi,Furniture,Risk Beauty,1912.6,2,0,-226.64
+622,ORD00622,03-04-2026,06-04-2026,Marilyn Dalton,Corporate,Hyderabad,Beauty,Door Electronics,4299.92,2,0.18,137.25
+623,ORD00623,01-09-2025,07-09-2025,Laura James,Home Office,Bangalore,Furniture,Soldier Beauty,6997.99,9,0.28,-541.19
+624,ORD00624,27-05-2024,30-05-2024,Tiffany Chen,Consumer,Bangalore,Grocery,Morning Grocery,6557.51,8,0.34,-708.46
+625,ORD00625,26-06-2025,02-07-2025,Laura Jackson,Corporate,Bangalore,Beauty,Leg Grocery,9077.85,5,0.21,-1428.33
+626,ORD00626,26-04-2025,29-04-2025,Debra Conner,Consumer,Bangalore,Furniture,Kitchen Furniture,1332.46,7,0.23,-265.29
+627,ORD00627,02-05-2025,06-05-2025,William Carson,Home Office,Hyderabad,Grocery,Military Beauty,6934.92,4,0.44,1219.42
+628,ORD00628,12-07-2024,17-07-2024,Leslie Jackson,Corporate,Chennai,Furniture,Color Electronics,1201.95,4,0.23,291.22
+629,ORD00629,21-10-2025,27-10-2025,Amy Wright,Corporate,Bangalore,Beauty,Charge Furniture,4162.27,6,0.35,1393.59
+630,ORD00630,18-11-2024,23-11-2024,Lisa Blankenship,Corporate,Bangalore,Furniture,Fine Grocery,1907.17,2,0.38,379.47
+631,ORD00631,09-07-2025,12-07-2025,Francisco King,Corporate,Mumbai,Fashion,You Electronics,2859.23,4,0.46,958.32
+632,ORD00632,05-08-2024,06-08-2024,Susan Brown,Corporate,Hyderabad,Fashion,Type Beauty,4558.62,8,0.01,885.93
+633,ORD00633,14-08-2024,17-08-2024,Alex Li,Home Office,Mumbai,Beauty,Whatever Fashion,409.73,10,0.43,-56.46
+634,ORD00634,01-07-2024,07-07-2024,Jesus Moore,Home Office,Bangalore,Beauty,Data Fashion,9551.38,6,0.31,2217.27
+635,ORD00635,04-09-2024,10-09-2024,Christina Taylor,Consumer,Hyderabad,Electronics,Deal Electronics,7254.21,8,0.07,234.27
+636,ORD00636,09-06-2024,13-06-2024,Rebecca Reed,Consumer,Pune,Grocery,Not Electronics,3926.43,6,0.49,806.17
+637,ORD00637,15-02-2025,16-02-2025,Kristi Lee,Corporate,Chennai,Grocery,Most Electronics,9659.26,9,0.27,1940.62
+638,ORD00638,05-12-2025,10-12-2025,Nicole Williams DDS,Consumer,Chennai,Furniture,Run Beauty,7038.79,10,0.31,2174.75
+639,ORD00639,09-09-2024,10-09-2024,John Watson,Home Office,Bangalore,Electronics,Right Beauty,2961.15,8,0.29,177.37
+640,ORD00640,19-04-2025,22-04-2025,Angela Taylor,Corporate,Mumbai,Grocery,Minute Fashion,4760.28,6,0.22,-109.91
+641,ORD00641,27-05-2024,01-06-2024,Brian Morrow,Corporate,Bangalore,Grocery,Practice Furniture,6490.96,6,0.11,1288.31
+642,ORD00642,28-10-2024,01-11-2024,Daniel Edwards DDS,Home Office,Delhi,Fashion,Without Beauty,5958.1,10,0.15,181.34
+643,ORD00643,14-08-2025,21-08-2025,Jeffrey Suarez,Consumer,Hyderabad,Fashion,Until Furniture,6851.73,5,0.16,-732.41
+644,ORD00644,14-02-2026,15-02-2026,Amanda Rush,Home Office,Mumbai,Beauty,Piece Fashion,3200.92,2,0.07,121.61
+645,ORD00645,19-11-2025,26-11-2025,David Boyer,Consumer,Bangalore,Electronics,Difficult Furniture,6381.07,7,0.45,-224.14
+646,ORD00646,10-01-2026,15-01-2026,Lori Lopez,Home Office,Chennai,Grocery,Business Fashion,3949.49,2,0.31,44.55
+647,ORD00647,11-09-2024,15-09-2024,Stephen Durham,Home Office,Bangalore,Grocery,Oil Electronics,1946.84,5,0.33,461.14
+648,ORD00648,14-07-2025,20-07-2025,Tyler Thompson,Consumer,Bangalore,Furniture,Man Electronics,3889,4,0.22,942.49
+649,ORD00649,14-08-2025,18-08-2025,Julie Hamilton,Home Office,Chennai,Grocery,Amount Fashion,8277.24,7,0.41,333.96
+650,ORD00650,31-05-2024,02-06-2024,Steven Romero,Consumer,Chennai,Electronics,Design Electronics,4878.74,2,0.17,-670.87
+651,ORD00651,10-06-2024,14-06-2024,Gary Martin,Consumer,Mumbai,Electronics,Discuss Electronics,5738.54,1,0.09,306.88
+652,ORD00652,07-06-2025,13-06-2025,Bryan Maddox,Consumer,Bangalore,Grocery,Water Fashion,7866.85,8,0.44,2564.78
+653,ORD00653,01-08-2025,06-08-2025,Alicia Olson,Corporate,Delhi,Electronics,Put Grocery,9291.61,4,0.35,-1800.18
+654,ORD00654,28-11-2025,04-12-2025,Christian Phillips,Corporate,Hyderabad,Beauty,Whether Electronics,2268.62,2,0.27,677.65
+655,ORD00655,07-10-2024,11-10-2024,Linda Taylor,Home Office,Delhi,Fashion,Move Beauty,2112.64,5,0.41,681.39
+656,ORD00656,24-08-2025,25-08-2025,Alexis Jackson,Home Office,Pune,Fashion,Add Grocery,5315.98,6,0.07,329.2
+657,ORD00657,17-11-2025,22-11-2025,Jeremiah Jacobs,Home Office,Mumbai,Grocery,Capital Fashion,3370.07,6,0.11,-439.93
+658,ORD00658,24-04-2026,30-04-2026,Charles Hart,Corporate,Delhi,Beauty,State Fashion,8931.09,1,0.08,1138.17
+659,ORD00659,24-01-2026,25-01-2026,Dr. Zachary Johnson,Corporate,Hyderabad,Furniture,Loss Furniture,6187.42,6,0.32,1276.99
+660,ORD00660,11-05-2024,17-05-2024,Patrick Chandler,Home Office,Hyderabad,Grocery,Government Grocery,7045.2,1,0.3,1960.16
+661,ORD00661,30-01-2026,04-02-2026,Wendy Jenkins,Home Office,Pune,Grocery,Entire Furniture,7197.35,7,0.22,734.81
+662,ORD00662,24-07-2025,27-07-2025,Seth Bryant,Corporate,Hyderabad,Beauty,Bad Grocery,9555.48,2,0.11,-469.13
+663,ORD00663,04-05-2025,07-05-2025,Samuel Glover,Home Office,Chennai,Beauty,Camera Beauty,7440.35,3,0.34,270.7
+664,ORD00664,29-11-2024,02-12-2024,Karen Lewis,Consumer,Bangalore,Beauty,Plant Beauty,6050.76,5,0.18,-244.1
+665,ORD00665,10-08-2025,17-08-2025,Ronnie Browning,Home Office,Pune,Fashion,Vote Electronics,2443.6,2,0.17,88.9
+666,ORD00666,01-08-2024,04-08-2024,Jacqueline Thomas,Home Office,Hyderabad,Electronics,Again Fashion,5764.49,1,0.16,286.27
+667,ORD00667,01-06-2024,07-06-2024,Samuel Hart,Consumer,Bangalore,Fashion,Imagine Furniture,1141.74,5,0.3,177.27
+668,ORD00668,30-01-2025,04-02-2025,James Rivera,Consumer,Mumbai,Grocery,Left Furniture,9388.92,7,0.39,-1320.8
+669,ORD00669,01-08-2025,04-08-2025,Brian Hughes,Home Office,Hyderabad,Electronics,Eight Electronics,6512.01,2,0.37,-454.02
+670,ORD00670,15-04-2026,22-04-2026,Shannon Adams,Corporate,Pune,Grocery,Trip Beauty,9594.78,1,0.37,555.89
+671,ORD00671,05-06-2024,12-06-2024,Erica Gutierrez,Consumer,Hyderabad,Beauty,Democrat Furniture,2528.38,9,0.35,399.43
+672,ORD00672,27-08-2024,28-08-2024,Jennifer Gordon,Corporate,Mumbai,Beauty,Near Grocery,2568.92,8,0.07,-214.91
+673,ORD00673,21-01-2026,23-01-2026,Joshua Velasquez,Corporate,Chennai,Grocery,Over Grocery,9348.9,1,0.41,-1396.82
+674,ORD00674,18-10-2024,19-10-2024,Holly Parker,Consumer,Pune,Grocery,Make Electronics,4606.94,5,0.25,1544.76
+675,ORD00675,17-04-2025,23-04-2025,Tamara Warren,Home Office,Pune,Electronics,Light Grocery,5731.27,3,0.23,-297.2
+676,ORD00676,14-11-2025,17-11-2025,Christopher Smith,Home Office,Mumbai,Grocery,Sport Furniture,9004.62,5,0.47,1748.93
+677,ORD00677,30-04-2026,05-05-2026,Aimee Santana,Corporate,Bangalore,Furniture,Town Electronics,4147.31,8,0.25,-369.65
+678,ORD00678,08-08-2025,11-08-2025,Maria Deleon,Consumer,Pune,Grocery,Him Beauty,3853.66,7,0.45,946.53
+679,ORD00679,03-02-2026,09-02-2026,Chris Contreras,Consumer,Pune,Furniture,Land Grocery,8626.93,1,0.17,-1163.29
+680,ORD00680,03-05-2025,08-05-2025,Janice Ortega,Home Office,Delhi,Electronics,Part Electronics,2617.08,1,0.27,-269.01
+681,ORD00681,02-03-2025,07-03-2025,William Hall,Corporate,Chennai,Electronics,Stage Furniture,964.77,3,0.24,-17.34
+682,ORD00682,31-05-2025,06-06-2025,Carol Weber,Consumer,Hyderabad,Fashion,West Furniture,4511.2,6,0.47,-510.59
+683,ORD00683,04-03-2025,10-03-2025,Chad Daniels,Home Office,Hyderabad,Grocery,Hit Furniture,3554.41,1,0.48,881.02
+684,ORD00684,17-02-2025,19-02-2025,Darren Wilson,Home Office,Chennai,Furniture,Foot Beauty,2152.8,2,0.18,-308.44
+685,ORD00685,23-06-2025,24-06-2025,Angel Williams,Home Office,Bangalore,Beauty,Cell Fashion,2715.9,5,0.31,-401.39
+686,ORD00686,05-06-2024,10-06-2024,Travis Williams,Consumer,Hyderabad,Furniture,Whatever Furniture,5904.87,8,0.3,775.11
+687,ORD00687,21-07-2024,26-07-2024,Sean Taylor,Corporate,Delhi,Grocery,Subject Beauty,9866.87,2,0.44,1010.24
+688,ORD00688,23-02-2025,28-02-2025,Joshua Smith,Consumer,Delhi,Grocery,Say Fashion,484.61,9,0.06,91.92
+689,ORD00689,24-03-2026,28-03-2026,Stephanie Rowland,Home Office,Hyderabad,Grocery,Agree Beauty,1922.27,8,0.23,272.22
+690,ORD00690,03-04-2026,04-04-2026,Mary Smith,Corporate,Chennai,Furniture,Color Beauty,2057.21,6,0.25,-269.39
+691,ORD00691,04-03-2025,09-03-2025,Steven Johnson,Home Office,Chennai,Furniture,Begin Grocery,1639.13,1,0.18,165.32
+692,ORD00692,08-09-2025,10-09-2025,Kimberly Brooks,Consumer,Pune,Fashion,Level Electronics,4370.37,1,0.2,-306.6
+693,ORD00693,27-03-2025,28-03-2025,Patricia Walker,Home Office,Mumbai,Electronics,Account Electronics,4665.62,2,0.05,303.88
+694,ORD00694,14-08-2024,16-08-2024,Nicholas Wright,Consumer,Chennai,Fashion,Add Electronics,4166.04,1,0.18,589.29
+695,ORD00695,09-11-2024,11-11-2024,Justin Wheeler,Home Office,Pune,Beauty,Doctor Electronics,3344.8,5,0.36,731.78
+696,ORD00696,21-03-2025,26-03-2025,Scott Peters,Consumer,Mumbai,Electronics,Also Beauty,2249.24,8,0.42,640.6
+697,ORD00697,29-01-2025,05-02-2025,Stephen Gonzalez,Consumer,Mumbai,Furniture,Prepare Beauty,9878.6,1,0.5,1914.21
+698,ORD00698,09-11-2025,12-11-2025,Thomas Hamilton,Home Office,Chennai,Grocery,White Furniture,2387.56,7,0.07,293.56
+699,ORD00699,13-10-2025,16-10-2025,Crystal Stephens,Home Office,Bangalore,Grocery,Glass Fashion,383.85,9,0.27,78.44
+700,ORD00700,09-12-2025,12-12-2025,Teresa Cole,Corporate,Delhi,Electronics,Rise Beauty,2211.02,4,0.41,-349.23
+701,ORD00701,04-05-2026,11-05-2026,Richard Davis,Consumer,Chennai,Fashion,Example Electronics,9665.19,8,0.25,769.69
+702,ORD00702,05-09-2024,09-09-2024,Leonard Lynch,Home Office,Chennai,Beauty,Scene Fashion,2226.71,8,0.14,407.55
+703,ORD00703,23-11-2024,27-11-2024,Amy Andrews,Corporate,Hyderabad,Furniture,Quickly Grocery,698.64,8,0.03,-6.49
+704,ORD00704,28-10-2025,03-11-2025,Kimberly Hall,Consumer,Hyderabad,Furniture,Cultural Beauty,7071.61,3,0.01,-957.7
+705,ORD00705,23-03-2025,28-03-2025,Justin Lewis,Corporate,Bangalore,Furniture,Dark Fashion,6756.1,4,0.32,282.2
+706,ORD00706,10-02-2025,11-02-2025,Michelle Bowers,Corporate,Pune,Fashion,Upon Beauty,4463.73,8,0.23,162.43
+707,ORD00707,18-11-2025,21-11-2025,Morgan Barton,Home Office,Delhi,Furniture,West Beauty,8407.41,5,0.45,1927.41
+708,ORD00708,13-06-2024,16-06-2024,William Williams,Home Office,Hyderabad,Grocery,Among Beauty,1285.65,8,0.13,-67.58
+709,ORD00709,26-04-2025,03-05-2025,Edward Ryan,Home Office,Mumbai,Furniture,Rate Fashion,2965.01,7,0.46,91.34
+710,ORD00710,12-06-2024,18-06-2024,Charles Jones,Corporate,Hyderabad,Electronics,Capital Fashion,4910.48,3,0.42,-658.82
+711,ORD00711,28-07-2024,29-07-2024,Valerie Baker,Consumer,Chennai,Beauty,East Electronics,2997.49,6,0.44,-114.92
+712,ORD00712,31-10-2024,04-11-2024,Tina Goodman,Consumer,Bangalore,Fashion,Speak Beauty,3825.28,10,0.08,-747.07
+713,ORD00713,31-01-2026,03-02-2026,Stacey Nelson,Home Office,Pune,Grocery,State Fashion,2397.05,10,0.49,-379.8
+714,ORD00714,30-01-2025,05-02-2025,Travis Massey,Corporate,Delhi,Fashion,Question Furniture,7369.15,7,0.23,1575.71
+715,ORD00715,23-08-2024,24-08-2024,Derrick Lane,Home Office,Chennai,Beauty,Eight Furniture,7193.77,9,0.45,1038.32
+716,ORD00716,09-07-2024,13-07-2024,William Anderson,Corporate,Pune,Grocery,Then Fashion,6622.89,7,0.17,-436.8
+717,ORD00717,13-03-2026,16-03-2026,Joel Sanchez,Home Office,Hyderabad,Electronics,Plant Furniture,4688.74,7,0.39,476.16
+718,ORD00718,21-08-2025,22-08-2025,Jacob Wallace,Home Office,Bangalore,Electronics,Open Electronics,180.45,2,0.13,57.34
+719,ORD00719,01-02-2026,07-02-2026,Erica Malone,Home Office,Pune,Grocery,Exactly Beauty,8633.82,8,0.21,173.05
+720,ORD00720,02-10-2025,04-10-2025,Michael Morgan,Consumer,Bangalore,Beauty,Purpose Beauty,7030.9,7,0.24,1854.81
+721,ORD00721,12-07-2025,13-07-2025,Alexis Holder,Consumer,Mumbai,Grocery,Democratic Beauty,9445.19,8,0.33,177.82
+722,ORD00722,20-05-2025,22-05-2025,Jesse Jefferson,Consumer,Chennai,Grocery,Blue Furniture,912.1,10,0.23,215.39
+723,ORD00723,24-11-2024,01-12-2024,Joy Jordan,Consumer,Mumbai,Beauty,Measure Electronics,7883.38,7,0.46,-968.97
+724,ORD00724,07-10-2024,11-10-2024,Raven Klein,Consumer,Chennai,Fashion,Do Beauty,7736.3,3,0.04,188.15
+725,ORD00725,13-07-2025,18-07-2025,Nancy Johnson,Consumer,Hyderabad,Grocery,Stay Electronics,3720.8,2,0.43,-423.7
+726,ORD00726,16-12-2024,17-12-2024,Scott Mcpherson,Corporate,Hyderabad,Furniture,Call Fashion,5421.16,2,0.05,693.39
+727,ORD00727,16-02-2026,17-02-2026,Jacqueline Cherry,Consumer,Chennai,Beauty,Figure Grocery,5004.72,1,0.41,691.7
+728,ORD00728,03-02-2026,07-02-2026,Bruce Jackson,Consumer,Chennai,Furniture,Health Grocery,8927.47,4,0.34,-1718.2
+729,ORD00729,02-04-2025,07-04-2025,Andrea Armstrong,Corporate,Mumbai,Fashion,Rule Fashion,3921.68,4,0.16,-645.52
+730,ORD00730,30-12-2024,04-01-2025,Kenneth Faulkner,Home Office,Bangalore,Beauty,Into Beauty,1848.81,6,0.08,70.32
+731,ORD00731,13-01-2025,16-01-2025,Jonathan Davis,Consumer,Hyderabad,Furniture,Policy Electronics,2834.07,9,0.46,273.22
+732,ORD00732,16-03-2025,20-03-2025,Robert Lawson,Corporate,Chennai,Grocery,True Grocery,3280.51,10,0.08,101.87
+733,ORD00733,21-10-2025,25-10-2025,David Watson,Corporate,Pune,Beauty,Sound Furniture,9543.57,8,0.03,1915.51
+734,ORD00734,18-10-2025,20-10-2025,James Rios,Consumer,Hyderabad,Fashion,World Electronics,2547.36,7,0.32,174.1
+735,ORD00735,17-01-2026,22-01-2026,Zachary Hamilton,Home Office,Delhi,Fashion,Have Electronics,1267.22,9,0.33,-237.07
+736,ORD00736,29-11-2025,06-12-2025,Zachary Mills,Corporate,Delhi,Fashion,Box Beauty,3238.05,4,0.29,-369.09
+737,ORD00737,01-11-2024,03-11-2024,Wesley Bates,Home Office,Hyderabad,Fashion,Civil Grocery,4580.22,7,0.36,896.73
+738,ORD00738,30-10-2025,31-10-2025,Ashley Rose,Consumer,Bangalore,Furniture,Number Furniture,9110.66,2,0.48,2373.23
+739,ORD00739,21-08-2024,24-08-2024,Alexa Allen,Consumer,Delhi,Electronics,Campaign Beauty,9129.62,1,0.12,3027.22
+740,ORD00740,04-08-2025,06-08-2025,Robin Sanchez,Home Office,Hyderabad,Fashion,Imagine Beauty,1647.48,5,0.31,74.93
+741,ORD00741,30-11-2024,02-12-2024,Michael Hunt,Home Office,Chennai,Fashion,How Grocery,7568.04,4,0.13,1339.44
+742,ORD00742,21-11-2024,28-11-2024,Anna Young,Corporate,Bangalore,Fashion,Section Electronics,2186.02,2,0.46,685.47
+743,ORD00743,15-04-2025,17-04-2025,Rachel Francis,Home Office,Delhi,Furniture,Create Beauty,2423.03,4,0.11,514.61
+744,ORD00744,12-03-2025,17-03-2025,Hannah Conner,Corporate,Delhi,Furniture,Per Fashion,6564.54,2,0.42,-125.37
+745,ORD00745,16-07-2024,20-07-2024,Heather Cruz,Consumer,Pune,Furniture,Company Electronics,9547.39,5,0.15,844.03
+746,ORD00746,25-01-2026,27-01-2026,John Stevens,Home Office,Hyderabad,Beauty,Increase Electronics,7417.18,6,0.02,2071.43
+747,ORD00747,09-12-2025,15-12-2025,Christopher Jenkins,Corporate,Hyderabad,Beauty,Ground Beauty,4794.3,6,0.1,1328.6
+748,ORD00748,02-03-2025,05-03-2025,Terri Klein,Corporate,Bangalore,Beauty,My Fashion,7320.76,7,0.23,2159.98
+749,ORD00749,08-10-2024,13-10-2024,Katherine Hines,Home Office,Pune,Fashion,House Grocery,3498.89,6,0.05,468.26
+750,ORD00750,25-08-2024,31-08-2024,Tracy Gomez,Corporate,Delhi,Electronics,This Electronics,2110.57,2,0.35,-62.89
+751,ORD00751,04-05-2025,08-05-2025,John Gould,Home Office,Mumbai,Fashion,Me Grocery,141.51,7,0.43,11.17
+752,ORD00752,01-01-2025,05-01-2025,Ashley Burns,Consumer,Pune,Fashion,Evening Electronics,4794.99,1,0.1,702.48
+753,ORD00753,12-04-2025,13-04-2025,Rachel Herrera,Corporate,Delhi,Furniture,Left Beauty,1097.68,7,0.03,122.11
+754,ORD00754,20-10-2024,22-10-2024,Scott Foster,Corporate,Chennai,Electronics,Significant Electronics,6784.66,10,0.23,-907.85
+755,ORD00755,06-12-2024,07-12-2024,Lynn Castillo,Home Office,Mumbai,Grocery,Table Grocery,2325.57,3,0.26,468.9
+756,ORD00756,30-04-2026,05-05-2026,Guy Hendrix,Consumer,Delhi,Beauty,Apply Electronics,494.54,6,0.34,165.57
+757,ORD00757,04-01-2025,06-01-2025,Joshua Martinez,Corporate,Delhi,Electronics,Itself Fashion,6817.9,4,0.03,-467.05
+758,ORD00758,05-02-2025,06-02-2025,Dr. Michael Boyle,Corporate,Bangalore,Fashion,Much Fashion,8394.87,4,0.09,659.67
+759,ORD00759,04-01-2025,07-01-2025,Anne Rodriguez,Consumer,Mumbai,Electronics,Wonder Furniture,7537.95,7,0.29,513.46
+760,ORD00760,28-11-2024,04-12-2024,Ryan Chavez,Consumer,Bangalore,Beauty,Minute Beauty,167.5,8,0.46,47.07
+761,ORD00761,09-02-2026,16-02-2026,Nichole Elliott,Corporate,Delhi,Beauty,Avoid Grocery,3486.49,7,0.4,-405.09
+762,ORD00762,01-06-2024,06-06-2024,Christopher Hamilton,Corporate,Bangalore,Grocery,Pretty Electronics,4195.84,3,0.48,745.7
+763,ORD00763,31-08-2025,01-09-2025,Alexandria Taylor,Home Office,Mumbai,Furniture,Court Grocery,6448.34,3,0.29,-381.37
+764,ORD00764,08-06-2024,11-06-2024,Anne Morgan,Corporate,Pune,Grocery,Practice Fashion,6577.34,6,0.11,699.77
+765,ORD00765,28-11-2025,05-12-2025,Gabrielle Peters,Corporate,Chennai,Furniture,Attorney Furniture,5152.82,10,0.22,-699.92
+766,ORD00766,14-09-2024,19-09-2024,Aaron Olson,Consumer,Chennai,Fashion,Themselves Electronics,7192.56,9,0.24,2190.87
+767,ORD00767,10-04-2025,17-04-2025,Michael Cooper,Consumer,Mumbai,Furniture,Statement Beauty,957.9,6,0.31,-35.99
+768,ORD00768,26-06-2024,29-06-2024,Robert Knight,Corporate,Pune,Electronics,Somebody Electronics,9524.96,7,0.47,2172.04
+769,ORD00769,18-08-2025,22-08-2025,Jessica Mcbride,Consumer,Pune,Grocery,Music Furniture,3326.13,7,0.37,1152.44
+770,ORD00770,25-02-2026,04-03-2026,Stephanie Bradshaw,Consumer,Bangalore,Grocery,Billion Beauty,7549.17,5,0.46,1176.11
+771,ORD00771,09-09-2025,10-09-2025,Lauren Russo,Home Office,Hyderabad,Furniture,Effort Furniture,2311.24,5,0.49,-99.54
+772,ORD00772,10-11-2025,11-11-2025,Andrew Mendoza,Home Office,Delhi,Fashion,Some Fashion,6107.44,4,0.03,-467.44
+773,ORD00773,17-03-2025,19-03-2025,Jamie Ramirez,Home Office,Chennai,Grocery,Bank Electronics,4772.69,2,0.45,-626.87
+774,ORD00774,15-04-2025,22-04-2025,Ms. Allison Davenport,Consumer,Mumbai,Electronics,Soon Beauty,8766.05,2,0.49,1264.88
+775,ORD00775,01-10-2025,04-10-2025,Austin Lambert,Consumer,Mumbai,Fashion,Energy Fashion,8664.29,1,0.47,-1399.98
+776,ORD00776,14-02-2026,18-02-2026,Andrew Parks,Corporate,Delhi,Furniture,Condition Grocery,9249.93,7,0.39,-248.87
+777,ORD00777,04-05-2026,11-05-2026,Sydney Smith,Consumer,Mumbai,Fashion,President Electronics,4064.92,7,0.2,-655.39
+778,ORD00778,17-09-2025,19-09-2025,Rachel Clarke,Consumer,Chennai,Fashion,Man Electronics,9584.67,4,0.44,2304.05
+779,ORD00779,11-12-2024,17-12-2024,Stephanie Carter,Corporate,Delhi,Grocery,Continue Electronics,246.81,10,0.23,84.9
+780,ORD00780,26-12-2024,31-12-2024,Angel Stanley,Consumer,Delhi,Beauty,Capital Furniture,9405.23,1,0.11,2018.83
+781,ORD00781,21-08-2025,26-08-2025,Michael Dixon,Home Office,Chennai,Electronics,Doctor Beauty,692.9,10,0.33,-48.68
+782,ORD00782,18-12-2025,21-12-2025,Nicholas Gates,Corporate,Bangalore,Furniture,Miss Fashion,2777.82,6,0.18,95.34
+783,ORD00783,21-02-2025,28-02-2025,Kevin Allen,Home Office,Chennai,Beauty,Prevent Electronics,5001.32,5,0.09,1586.27
+784,ORD00784,07-04-2026,13-04-2026,Crystal Wallace,Corporate,Mumbai,Electronics,Seven Fashion,2233.05,8,0.34,563.75
+785,ORD00785,01-12-2024,03-12-2024,Amber Ashley,Corporate,Delhi,Electronics,Although Beauty,904.79,5,0.16,34.2
+786,ORD00786,13-04-2025,19-04-2025,Adam Johnson,Consumer,Bangalore,Grocery,Collection Grocery,7467.77,9,0.12,-438.18
+787,ORD00787,25-07-2025,26-07-2025,Dylan Bush,Corporate,Hyderabad,Fashion,Career Fashion,1264.28,5,0.43,153.61
+788,ORD00788,25-08-2024,29-08-2024,Misty Garcia,Consumer,Chennai,Grocery,I Beauty,9777.38,1,0.42,2188.02
+789,ORD00789,15-05-2024,20-05-2024,Justin Mitchell,Home Office,Mumbai,Electronics,Main Grocery,7178.81,9,0.24,901.5
+790,ORD00790,26-06-2025,03-07-2025,Monica Conley,Home Office,Hyderabad,Furniture,Likely Fashion,1967.05,3,0.31,-281.85
+791,ORD00791,20-11-2025,23-11-2025,Lisa Clark,Home Office,Bangalore,Furniture,Executive Electronics,5955.13,1,0.31,2074.45
+792,ORD00792,14-01-2025,16-01-2025,Donald Gonzalez,Consumer,Mumbai,Fashion,She Beauty,7016.66,10,0.2,721.17
+793,ORD00793,23-07-2025,24-07-2025,William Jones,Corporate,Chennai,Fashion,Style Fashion,2895.72,4,0.13,-427.44
+794,ORD00794,14-01-2025,19-01-2025,Danny Martin,Corporate,Mumbai,Fashion,Kitchen Fashion,3858.99,4,0.35,793.62
+795,ORD00795,11-01-2025,15-01-2025,Lawrence Ruiz,Home Office,Mumbai,Electronics,Simply Grocery,7776.4,3,0.29,1066.53
+796,ORD00796,06-05-2024,09-05-2024,Elizabeth Ewing,Home Office,Chennai,Fashion,Between Furniture,6528.91,3,0.5,-713.13
+797,ORD00797,19-12-2024,24-12-2024,Jennifer Hensley,Home Office,Chennai,Grocery,Eye Beauty,8479.14,5,0.05,-1073.29
+798,ORD00798,13-08-2025,16-08-2025,Kimberly Francis,Corporate,Pune,Fashion,Action Furniture,7161.48,5,0.47,1585.81
+799,ORD00799,30-09-2024,02-10-2024,Dylan Woods,Home Office,Hyderabad,Electronics,Election Fashion,6350.33,5,0.34,-417.55
+800,ORD00800,14-09-2025,16-09-2025,Robin Hensley,Consumer,Hyderabad,Electronics,They Fashion,1803.13,5,0.48,505.85
+801,ORD00801,22-07-2024,24-07-2024,Bryan Chavez,Home Office,Pune,Grocery,People Beauty,9752.31,2,0.31,2953.04
+802,ORD00802,23-01-2025,29-01-2025,Amy Patterson,Corporate,Chennai,Fashion,Hit Grocery,3756.77,7,0.46,-725.58
+803,ORD00803,20-10-2025,23-10-2025,Laura Anderson,Home Office,Bangalore,Beauty,Space Grocery,138.94,9,0.46,10.57
+804,ORD00804,27-05-2024,29-05-2024,Kimberly Hendrix,Home Office,Hyderabad,Electronics,Child Grocery,6589.59,6,0.26,306.78
+805,ORD00805,01-05-2025,08-05-2025,Christopher Soto,Consumer,Pune,Furniture,Fight Electronics,7529.68,10,0.02,-349.3
+806,ORD00806,14-06-2024,19-06-2024,Carmen Perez,Home Office,Chennai,Beauty,Own Beauty,9516.05,8,0.1,1193.52
+807,ORD00807,25-02-2025,01-03-2025,Christopher Baker,Consumer,Delhi,Electronics,Ahead Grocery,5337.98,6,0.32,-809.39
+808,ORD00808,01-08-2024,05-08-2024,Michael Roberts,Home Office,Delhi,Grocery,Happen Fashion,9343.74,1,0.33,2256.25
+809,ORD00809,19-06-2024,26-06-2024,Nicole Morris,Corporate,Bangalore,Furniture,With Electronics,6258.39,1,0.22,-1171.41
+810,ORD00810,31-03-2026,06-04-2026,Aaron Travis,Corporate,Pune,Electronics,Method Fashion,3499.81,2,0.4,185.69
+811,ORD00811,05-10-2025,08-10-2025,Hailey Jackson DVM,Consumer,Pune,Furniture,Live Electronics,6695.28,8,0.33,1974.41
+812,ORD00812,24-11-2024,28-11-2024,Brittany Weaver,Home Office,Bangalore,Grocery,Receive Beauty,9327.24,1,0.19,1311.53
+813,ORD00813,21-12-2025,24-12-2025,Amanda Martinez,Home Office,Mumbai,Fashion,Center Grocery,5538,1,0.39,239.96
+814,ORD00814,23-11-2025,24-11-2025,James Clark,Home Office,Hyderabad,Beauty,Body Furniture,8586.81,10,0.35,522.49
+815,ORD00815,30-04-2025,05-05-2025,Susan Roberson,Corporate,Delhi,Fashion,Note Fashion,8627.32,8,0.41,1454.96
+816,ORD00816,04-11-2025,05-11-2025,Richard Branch,Home Office,Delhi,Furniture,Develop Fashion,1196.35,6,0.35,287.43
+817,ORD00817,02-10-2025,04-10-2025,John Harmon,Home Office,Bangalore,Grocery,Hundred Fashion,1836.58,9,0.25,464.71
+818,ORD00818,19-09-2025,26-09-2025,Kristie Carter,Home Office,Bangalore,Beauty,Recently Furniture,3812.08,2,0.06,1103.63
+819,ORD00819,17-04-2025,19-04-2025,Jeff Sampson,Consumer,Bangalore,Grocery,Part Grocery,4030.44,7,0.16,163.36
+820,ORD00820,02-11-2024,05-11-2024,Cynthia Padilla,Home Office,Hyderabad,Grocery,Message Grocery,4590.18,7,0.41,-28.16
+821,ORD00821,26-01-2025,01-02-2025,Elizabeth Williams,Corporate,Pune,Furniture,Beyond Fashion,2304.62,5,0.44,497.04
+822,ORD00822,12-03-2025,18-03-2025,Tammy Gutierrez,Home Office,Delhi,Fashion,Good Beauty,6055.53,8,0.01,-487.38
+823,ORD00823,03-03-2026,07-03-2026,Lori Fry,Corporate,Chennai,Beauty,Structure Furniture,3859.52,7,0.02,67.04
+824,ORD00824,10-01-2026,17-01-2026,Scott Alvarado,Corporate,Chennai,Furniture,Middle Beauty,3043.26,5,0.27,896.66
+825,ORD00825,02-06-2025,05-06-2025,Anthony Lawrence,Corporate,Bangalore,Beauty,Serve Grocery,9710.7,8,0.23,-556.15
+826,ORD00826,05-01-2025,07-01-2025,Richard Lee,Consumer,Chennai,Fashion,Child Electronics,5369.74,9,0.45,1514.81
+827,ORD00827,24-01-2025,31-01-2025,Tara Bartlett,Consumer,Delhi,Electronics,Land Furniture,9272.05,6,0.19,323.04
+828,ORD00828,28-11-2025,29-11-2025,Anthony Cisneros,Corporate,Chennai,Electronics,Remain Electronics,2081.41,9,0.49,679.76
+829,ORD00829,14-11-2024,16-11-2024,John Johnson,Consumer,Mumbai,Furniture,Cost Beauty,4418.94,10,0.11,1160.33
+830,ORD00830,07-08-2025,12-08-2025,Michael Bell,Corporate,Delhi,Beauty,Likely Furniture,7322.26,7,0.26,-221.09
+831,ORD00831,10-09-2024,15-09-2024,Meagan Mills,Corporate,Delhi,Furniture,Top Electronics,3969.98,2,0.08,-637.17
+832,ORD00832,21-03-2025,28-03-2025,Barbara Shepherd,Home Office,Pune,Furniture,Firm Furniture,8146.91,7,0.07,831.67
+833,ORD00833,18-10-2024,21-10-2024,Lisa Huber,Consumer,Bangalore,Furniture,Low Grocery,7632.64,1,0.13,-867.71
+834,ORD00834,07-08-2025,12-08-2025,Devon Smith,Consumer,Pune,Beauty,Happy Fashion,9058.89,4,0.39,-3.78
+835,ORD00835,09-05-2024,10-05-2024,Penny Villarreal,Home Office,Hyderabad,Fashion,Maintain Furniture,306.86,7,0,-26.33
+836,ORD00836,06-11-2025,13-11-2025,Kim Hill,Consumer,Hyderabad,Beauty,Spend Furniture,8207.59,3,0.49,-1199
+837,ORD00837,23-03-2026,25-03-2026,Carlos Davis Jr.,Corporate,Chennai,Grocery,Determine Beauty,2578.9,10,0.21,110.34
+838,ORD00838,22-03-2026,24-03-2026,Terri Saunders,Home Office,Delhi,Grocery,Live Furniture,8085.97,2,0.21,-1562.02
+839,ORD00839,23-01-2026,30-01-2026,Carol Nunez,Corporate,Pune,Grocery,He Beauty,3968.14,8,0.11,1186.27
+840,ORD00840,02-09-2025,04-09-2025,Melody Lewis,Home Office,Hyderabad,Grocery,Ago Furniture,498.65,8,0.41,36.98
+841,ORD00841,13-02-2026,15-02-2026,Cathy Sanchez,Home Office,Delhi,Grocery,Computer Furniture,7346.85,7,0.49,-159.16
+842,ORD00842,12-01-2026,14-01-2026,Jonathan Mooney,Consumer,Chennai,Grocery,Success Electronics,9566.3,6,0.3,1790.58
+843,ORD00843,23-07-2024,26-07-2024,Michelle Sims,Home Office,Bangalore,Beauty,Unit Grocery,9844.9,2,0.14,2074.92
+844,ORD00844,29-03-2025,02-04-2025,Allen Garner,Home Office,Mumbai,Beauty,Break Furniture,1102.34,9,0.33,290.17
+845,ORD00845,21-05-2025,27-05-2025,Donald Dominguez,Corporate,Pune,Beauty,Collection Grocery,2260.97,6,0.47,624.94
+846,ORD00846,22-05-2024,29-05-2024,Brooke Reed,Home Office,Pune,Grocery,Beyond Fashion,933.21,5,0.27,-35.9
+847,ORD00847,25-08-2024,27-08-2024,April Rose,Home Office,Pune,Beauty,Front Furniture,885.1,7,0.25,-20.22
+848,ORD00848,28-12-2025,31-12-2025,Caleb Williams,Home Office,Hyderabad,Beauty,Agreement Grocery,7614.87,10,0.49,2386.93
+849,ORD00849,12-10-2024,15-10-2024,Nicholas Hill,Home Office,Chennai,Fashion,Best Grocery,9732.5,5,0.03,3116.68
+850,ORD00850,10-10-2024,15-10-2024,Teresa Bennett,Home Office,Mumbai,Fashion,Music Grocery,9448.89,9,0.36,2071.24
+851,ORD00851,07-07-2025,11-07-2025,Kenneth Brown,Consumer,Hyderabad,Electronics,Politics Electronics,1625.27,9,0.33,336.69
+852,ORD00852,03-08-2024,04-08-2024,Matthew King,Home Office,Hyderabad,Grocery,Front Beauty,1107.01,10,0.1,-206.63
+853,ORD00853,18-03-2025,24-03-2025,Matthew Lewis,Corporate,Chennai,Beauty,He Beauty,8158.37,4,0.04,-146.6
+854,ORD00854,09-07-2024,15-07-2024,Joseph Rangel,Home Office,Bangalore,Beauty,Choice Beauty,5929.6,8,0.46,1667.89
+855,ORD00855,25-08-2024,30-08-2024,Steven Allen,Home Office,Bangalore,Fashion,Management Beauty,9562.06,2,0.06,2721.75
+856,ORD00856,28-04-2026,04-05-2026,Anita Malone,Home Office,Chennai,Electronics,With Beauty,887.3,1,0.2,75.34
+857,ORD00857,09-04-2026,16-04-2026,Carrie Johnson,Corporate,Delhi,Beauty,And Beauty,5636.25,10,0.04,182.34
+858,ORD00858,10-12-2024,14-12-2024,Jamie Dominguez,Corporate,Pune,Electronics,Similar Fashion,5978.94,8,0.32,441.3
+859,ORD00859,15-05-2025,19-05-2025,Lisa Irwin,Consumer,Pune,Fashion,Industry Electronics,6291.68,4,0.25,1921.22
+860,ORD00860,06-10-2024,09-10-2024,Samuel Villegas,Corporate,Mumbai,Furniture,Item Electronics,5936.24,3,0.47,174.64
+861,ORD00861,29-07-2024,04-08-2024,Daniel Potts,Home Office,Pune,Electronics,Employee Beauty,1096.45,3,0.11,344.58
+862,ORD00862,04-12-2025,11-12-2025,Brian Alvarado,Home Office,Delhi,Fashion,Lose Electronics,4402,8,0.34,-182.56
+863,ORD00863,25-07-2025,28-07-2025,Amber Johnson,Consumer,Hyderabad,Electronics,Own Electronics,4611.87,1,0.26,405.82
+864,ORD00864,07-06-2024,14-06-2024,Christopher Fields,Consumer,Bangalore,Furniture,Side Grocery,3408.36,9,0.06,1120.89
+865,ORD00865,06-12-2025,13-12-2025,Mary Oliver,Home Office,Chennai,Fashion,Kitchen Grocery,8413.25,2,0.37,-1629.34
+866,ORD00866,13-02-2026,14-02-2026,Hayley Alvarez,Consumer,Hyderabad,Electronics,Television Fashion,8480.96,8,0.4,2607.15
+867,ORD00867,15-01-2025,20-01-2025,John Murray,Corporate,Bangalore,Fashion,Type Furniture,3492.2,3,0.01,-193.87
+868,ORD00868,28-11-2025,01-12-2025,Diane Stewart,Corporate,Mumbai,Electronics,Point Fashion,4156.9,6,0.3,944.1
+869,ORD00869,10-12-2024,12-12-2024,Jonathon Bennett,Home Office,Hyderabad,Fashion,You Furniture,3849.98,7,0.36,608
+870,ORD00870,12-07-2024,14-07-2024,Steven Gardner,Consumer,Chennai,Beauty,Wife Grocery,4181.45,2,0.33,-116.9
+871,ORD00871,14-04-2026,16-04-2026,Monica Cruz,Consumer,Chennai,Electronics,End Fashion,4009.55,9,0.22,-392.16
+872,ORD00872,11-07-2025,12-07-2025,James Berry,Home Office,Pune,Furniture,Kind Fashion,9915.28,4,0.47,-265.85
+873,ORD00873,05-06-2024,09-06-2024,Larry Hamilton,Corporate,Hyderabad,Grocery,Ten Grocery,5797.34,10,0.01,1514.92
+874,ORD00874,26-04-2026,03-05-2026,Christopher Vega,Consumer,Pune,Beauty,Should Fashion,461.86,10,0,28.83
+875,ORD00875,16-11-2024,21-11-2024,Kyle Campbell,Corporate,Chennai,Furniture,Some Electronics,9920.65,10,0.14,1257.2
+876,ORD00876,30-09-2024,07-10-2024,James Davis,Consumer,Delhi,Beauty,Ask Grocery,8256.03,6,0.16,-193.95
+877,ORD00877,23-02-2026,28-02-2026,Kiara Turner,Home Office,Pune,Beauty,List Fashion,7910.41,3,0.29,-603.4
+878,ORD00878,13-10-2025,16-10-2025,Shawn Wilkerson,Consumer,Pune,Furniture,Technology Furniture,7584.58,6,0.36,-266.23
+879,ORD00879,23-04-2025,27-04-2025,Marcus Walker,Corporate,Pune,Fashion,Southern Grocery,4986.2,8,0.35,431.23
+880,ORD00880,31-08-2024,01-09-2024,Kimberly Smith,Home Office,Bangalore,Furniture,First Fashion,4195.35,10,0.39,528.52
+881,ORD00881,16-08-2024,17-08-2024,Kim Gordon,Consumer,Hyderabad,Fashion,Service Fashion,1506.74,1,0.02,329.58
+882,ORD00882,04-06-2024,07-06-2024,Stephanie Sanchez,Consumer,Delhi,Beauty,Guy Beauty,7355.22,7,0.26,358.09
+883,ORD00883,26-06-2025,30-06-2025,Kerry Brown,Consumer,Chennai,Grocery,On Electronics,8095.81,5,0.07,2405.51
+884,ORD00884,07-06-2025,14-06-2025,Brian Chavez,Consumer,Mumbai,Grocery,Wait Grocery,8785.7,7,0.34,3019.61
+885,ORD00885,16-07-2025,19-07-2025,Michael Le,Home Office,Delhi,Grocery,Southern Fashion,3493.1,7,0.14,398.21
+886,ORD00886,11-09-2025,12-09-2025,Johnny Williams,Corporate,Delhi,Furniture,Wait Beauty,3950.21,4,0.22,107.61
+887,ORD00887,28-04-2025,29-04-2025,Kayla Peterson,Consumer,Bangalore,Grocery,Those Electronics,4520.67,1,0.41,744.36
+888,ORD00888,10-05-2024,17-05-2024,Robert Anderson,Home Office,Pune,Electronics,Late Furniture,2356.67,4,0.45,-275.32
+889,ORD00889,17-06-2024,20-06-2024,Mr. David Kennedy,Corporate,Pune,Electronics,Present Furniture,6025.6,9,0.05,1933.44
+890,ORD00890,25-05-2024,26-05-2024,Sandra Williamson,Consumer,Hyderabad,Fashion,Guy Fashion,2663.67,8,0.24,98.46
+891,ORD00891,09-11-2025,13-11-2025,David Clayton,Corporate,Pune,Electronics,Whole Furniture,2484.52,4,0.26,-381.98
+892,ORD00892,12-02-2025,18-02-2025,Michelle Leblanc,Corporate,Bangalore,Grocery,Before Electronics,8942.84,1,0.41,1832.06
+893,ORD00893,04-09-2024,10-09-2024,Amy Bernard,Corporate,Hyderabad,Fashion,Than Fashion,169.33,6,0.1,-16.85
+894,ORD00894,31-05-2024,05-06-2024,Caroline Brown,Consumer,Mumbai,Beauty,Between Fashion,8303.53,2,0.22,366.69
+895,ORD00895,26-09-2024,02-10-2024,Cory Ward,Home Office,Hyderabad,Beauty,Activity Electronics,673.32,5,0.34,-52.86
+896,ORD00896,07-03-2026,13-03-2026,Joshua Sanchez,Home Office,Hyderabad,Grocery,Lead Fashion,2320.05,1,0.41,11.93
+897,ORD00897,14-02-2025,15-02-2025,Carlos Snyder,Consumer,Chennai,Beauty,Recent Beauty,5219.03,1,0.03,-562.11
+898,ORD00898,15-04-2026,17-04-2026,Tara Lane,Corporate,Bangalore,Beauty,Across Beauty,7866.25,9,0.24,979.14
+899,ORD00899,17-12-2024,23-12-2024,Patricia Clark,Consumer,Chennai,Furniture,Ground Furniture,2613.4,3,0.49,-313.58
+900,ORD00900,21-09-2024,26-09-2024,Jeremy Cabrera,Home Office,Bangalore,Fashion,Purpose Grocery,3664.84,3,0.19,843.13
+901,ORD00901,25-08-2024,31-08-2024,Julie Holt,Corporate,Chennai,Fashion,Market Grocery,9690.96,8,0.14,-1885.93
+902,ORD00902,26-07-2025,29-07-2025,Amy Morgan,Corporate,Hyderabad,Beauty,Newspaper Electronics,5363.47,3,0.1,-183.79
+903,ORD00903,25-10-2025,28-10-2025,Dave Brennan,Corporate,Pune,Grocery,Series Furniture,4953.18,5,0.37,1180.26
+904,ORD00904,23-12-2024,27-12-2024,Justin Moran,Home Office,Delhi,Electronics,Society Furniture,496.5,10,0.05,-40.6
+905,ORD00905,01-06-2025,04-06-2025,Jacob Bird,Corporate,Mumbai,Furniture,Side Electronics,4101.75,6,0.16,389.24
+906,ORD00906,01-06-2024,02-06-2024,Richard Evans,Corporate,Bangalore,Electronics,Yeah Fashion,5908.95,5,0.49,431.27
+907,ORD00907,18-06-2024,23-06-2024,Christina Black,Corporate,Hyderabad,Grocery,Successful Grocery,3620.55,9,0.47,-608.31
+908,ORD00908,05-03-2026,12-03-2026,Jamie Powell,Consumer,Delhi,Beauty,Either Electronics,3714.3,10,0.16,1217.84
+909,ORD00909,22-05-2025,26-05-2025,Matthew Castro,Home Office,Pune,Electronics,Three Grocery,2332.74,2,0.29,31.5
+910,ORD00910,25-01-2025,30-01-2025,Craig Smith,Corporate,Delhi,Electronics,Economic Grocery,1991.07,2,0.34,486.19
+911,ORD00911,13-12-2025,15-12-2025,Michael Clark,Home Office,Hyderabad,Beauty,Drive Furniture,5994.67,7,0.41,1151.01
+912,ORD00912,14-07-2025,18-07-2025,Megan Hill,Consumer,Mumbai,Fashion,Firm Electronics,8350.53,6,0.12,658.97
+913,ORD00913,27-01-2026,29-01-2026,Timothy Dorsey,Consumer,Mumbai,Beauty,Report Grocery,8108.09,7,0.33,1261.93
+914,ORD00914,04-05-2026,09-05-2026,Diana Johnston,Consumer,Delhi,Furniture,Member Furniture,3247.22,5,0.32,199.07
+915,ORD00915,28-01-2025,03-02-2025,Mrs. Renee Phillips,Consumer,Pune,Fashion,Put Furniture,9225.61,9,0.19,343.77
+916,ORD00916,06-07-2025,08-07-2025,Kendra Golden,Corporate,Delhi,Beauty,Movie Grocery,6233.77,9,0.3,-1078.46
+917,ORD00917,09-11-2024,12-11-2024,Alyssa Allison,Corporate,Delhi,Grocery,Begin Fashion,4784.88,10,0.36,979.68
+918,ORD00918,12-09-2024,15-09-2024,Katherine Robles,Corporate,Pune,Beauty,Police Electronics,5561.49,3,0.26,87.08
+919,ORD00919,28-02-2025,02-03-2025,Vincent Phelps,Consumer,Hyderabad,Beauty,World Furniture,7844.24,5,0.5,1028.77
+920,ORD00920,10-10-2024,13-10-2024,Richard Martin,Consumer,Pune,Electronics,Audience Electronics,7344.72,1,0.32,1122
+921,ORD00921,03-10-2024,10-10-2024,Michael Woodward,Home Office,Hyderabad,Electronics,Account Fashion,4115.46,7,0.23,-764.75
+922,ORD00922,06-02-2025,07-02-2025,Christopher Harris,Consumer,Hyderabad,Electronics,Method Furniture,1095.65,3,0.27,85.02
+923,ORD00923,20-07-2024,25-07-2024,Lauren Curry,Consumer,Pune,Beauty,Firm Beauty,7826.97,5,0.06,2600.93
+924,ORD00924,07-03-2026,13-03-2026,Justin Mathews,Consumer,Delhi,Grocery,Base Beauty,2868.91,5,0.28,-163.94
+925,ORD00925,27-02-2026,05-03-2026,Sheryl Gutierrez,Consumer,Mumbai,Grocery,Camera Grocery,5098.42,9,0.21,-490.99
+926,ORD00926,30-06-2025,06-07-2025,Holly Carlson,Corporate,Bangalore,Beauty,Figure Grocery,1527.92,9,0.01,263.78
+927,ORD00927,06-12-2024,10-12-2024,Lori Hernandez,Home Office,Pune,Beauty,Money Furniture,3884.02,8,0.14,-250.52
+928,ORD00928,22-11-2025,28-11-2025,Linda Sanchez,Home Office,Bangalore,Furniture,Control Beauty,6846.48,10,0.39,644.83
+929,ORD00929,12-04-2026,19-04-2026,John Levine,Consumer,Pune,Beauty,She Electronics,6075.82,9,0.33,1935.14
+930,ORD00930,20-10-2024,24-10-2024,Michelle Campbell,Consumer,Pune,Beauty,Piece Beauty,198.78,1,0.32,-37.08
+931,ORD00931,06-02-2026,09-02-2026,John Wells,Corporate,Chennai,Fashion,Movement Furniture,8825.58,10,0.14,994.56
+932,ORD00932,07-12-2024,09-12-2024,Nicole Payne,Corporate,Bangalore,Fashion,Us Furniture,5286.44,3,0.33,948.76
+933,ORD00933,18-03-2026,23-03-2026,Dean Love,Home Office,Mumbai,Furniture,Participant Furniture,1634.44,8,0.25,349.11
+934,ORD00934,08-09-2024,13-09-2024,Ernest Savage,Consumer,Hyderabad,Furniture,Investment Beauty,7313.4,10,0.21,1275.14
+935,ORD00935,15-03-2026,18-03-2026,Jamie Johnson,Home Office,Delhi,Beauty,Four Electronics,9194.97,9,0.07,2274.21
+936,ORD00936,24-09-2024,25-09-2024,Lisa Reyes,Consumer,Delhi,Electronics,Stand Grocery,3726.31,10,0.12,500.31
+937,ORD00937,10-01-2026,15-01-2026,Paul Bird,Corporate,Bangalore,Fashion,You Beauty,4309.26,6,0.12,525.45
+938,ORD00938,28-07-2024,04-08-2024,Stephanie Rodriguez,Consumer,Chennai,Electronics,Visit Grocery,979.89,3,0.42,-159.76
+939,ORD00939,04-07-2024,09-07-2024,Peggy Vasquez,Home Office,Delhi,Furniture,Television Grocery,5793.66,6,0.48,1592.95
+940,ORD00940,17-09-2024,24-09-2024,Gail Elliott,Corporate,Bangalore,Electronics,Especially Electronics,1908.69,6,0.48,302.25
+941,ORD00941,08-12-2024,10-12-2024,Samuel Williams,Home Office,Pune,Electronics,After Electronics,8588.21,6,0.32,808.13
+942,ORD00942,04-09-2024,07-09-2024,Natasha Gray,Consumer,Bangalore,Grocery,Wish Grocery,3844.26,10,0.38,-79.39
+943,ORD00943,10-08-2025,11-08-2025,Amanda Cruz,Corporate,Chennai,Electronics,Probably Beauty,3983.37,10,0.29,184.03
+944,ORD00944,15-09-2025,19-09-2025,Mark Bullock,Consumer,Hyderabad,Fashion,Have Furniture,5703.82,10,0.47,1535.96
+945,ORD00945,21-02-2025,25-02-2025,Eric Eaton,Corporate,Pune,Furniture,Threat Electronics,8753.78,2,0.29,362.57
+946,ORD00946,23-06-2024,27-06-2024,William Webb,Corporate,Chennai,Electronics,Stuff Fashion,3366.9,8,0.3,376.1
+947,ORD00947,21-10-2025,28-10-2025,Anita Bailey,Corporate,Bangalore,Grocery,Write Electronics,1407.6,1,0.05,-65.73
+948,ORD00948,12-09-2024,17-09-2024,Bruce Allen,Home Office,Bangalore,Electronics,Score Grocery,6639.66,5,0.41,1553.93
+949,ORD00949,25-11-2025,28-11-2025,Peggy Best,Consumer,Hyderabad,Beauty,Memory Grocery,1549.25,2,0.05,-19.49
+950,ORD00950,24-10-2024,31-10-2024,Benjamin Lowe,Home Office,Delhi,Furniture,Even Electronics,4107.53,8,0.19,458.38
+951,ORD00951,21-08-2024,25-08-2024,Julia Clark,Consumer,Chennai,Beauty,Will Grocery,3996.43,6,0.22,-733.14
+952,ORD00952,08-10-2025,15-10-2025,Joseph Diaz,Corporate,Mumbai,Fashion,Become Grocery,5336.66,9,0.47,-1014.6
+953,ORD00953,24-01-2026,29-01-2026,Mark Newman,Corporate,Bangalore,Electronics,Alone Furniture,8555.21,7,0.13,-1586.21
+954,ORD00954,05-05-2025,09-05-2025,Glenda Riley,Corporate,Pune,Beauty,Where Fashion,5329.09,5,0.36,-320.55
+955,ORD00955,26-09-2024,01-10-2024,Cassidy Stuart,Consumer,Hyderabad,Grocery,Star Beauty,8960,4,0.4,2078.4
+956,ORD00956,30-06-2024,04-07-2024,Jon Mendez,Home Office,Bangalore,Fashion,Will Furniture,1984.65,4,0.4,330.37
+957,ORD00957,23-03-2026,24-03-2026,David Evans,Consumer,Chennai,Fashion,Site Fashion,7714.45,6,0.3,-183.04
+958,ORD00958,30-09-2025,01-10-2025,Catherine Cunningham,Home Office,Mumbai,Fashion,Else Beauty,6431.04,10,0.45,847.51
+959,ORD00959,05-03-2025,08-03-2025,Tara Duran,Consumer,Chennai,Fashion,Common Grocery,760.24,6,0.11,193.45
+960,ORD00960,21-12-2025,24-12-2025,Lisa Watson,Corporate,Mumbai,Grocery,Here Electronics,5710.48,4,0.03,154.57
+961,ORD00961,08-04-2026,09-04-2026,Jacqueline Palmer,Consumer,Delhi,Electronics,Nice Furniture,1469.43,8,0.08,100.57
+962,ORD00962,24-03-2025,27-03-2025,Michael Horn,Consumer,Pune,Beauty,Seven Electronics,3639.15,6,0.28,-608.94
+963,ORD00963,02-11-2025,03-11-2025,Sarah Suarez,Corporate,Bangalore,Electronics,Bad Grocery,584.32,7,0.32,57.82
+964,ORD00964,08-07-2025,11-07-2025,Jennifer Adams,Consumer,Delhi,Grocery,Road Beauty,8152.13,1,0.3,1560.36
+965,ORD00965,22-08-2025,27-08-2025,Daniel Mcdonald,Corporate,Bangalore,Beauty,Worker Grocery,1494.33,10,0.14,84.22
+966,ORD00966,21-03-2025,25-03-2025,Jon Peters,Home Office,Bangalore,Fashion,Improve Furniture,6213.19,1,0.4,1533.27
+967,ORD00967,18-12-2024,22-12-2024,Christopher Werner,Corporate,Hyderabad,Fashion,Difficult Fashion,6140.65,2,0.24,933
+968,ORD00968,11-11-2025,13-11-2025,Michelle Velez,Home Office,Delhi,Fashion,Product Beauty,525.03,6,0.05,157.81
+969,ORD00969,28-05-2025,02-06-2025,Frank Fisher V,Corporate,Hyderabad,Furniture,Table Beauty,4395.97,6,0.3,-48.93
+970,ORD00970,21-10-2024,27-10-2024,Terri Johnston,Corporate,Mumbai,Furniture,Science Fashion,4603.99,9,0.13,1002.44
+971,ORD00971,13-08-2025,14-08-2025,Anthony Craig,Corporate,Chennai,Beauty,Might Beauty,5200.05,9,0.39,-115.31
+972,ORD00972,05-10-2025,11-10-2025,Loretta Anderson,Home Office,Chennai,Grocery,Somebody Beauty,8433.08,3,0.17,1472.25
+973,ORD00973,18-10-2024,22-10-2024,Cindy Arnold,Corporate,Bangalore,Fashion,Cell Beauty,5718.39,3,0.06,1653.11
+974,ORD00974,08-10-2024,10-10-2024,Christine Campbell,Consumer,Chennai,Beauty,Run Beauty,5342.91,6,0.37,1116.87
+975,ORD00975,14-05-2024,16-05-2024,Julia Adams,Consumer,Pune,Grocery,Recognize Electronics,9949.46,8,0.5,1269.38
+976,ORD00976,13-02-2025,19-02-2025,Nancy Anderson,Corporate,Chennai,Grocery,Moment Furniture,6003.94,1,0.21,1713.84
+977,ORD00977,04-04-2026,05-04-2026,Julie Case,Home Office,Chennai,Fashion,Interesting Fashion,4677.88,7,0,-509.19
+978,ORD00978,13-05-2024,20-05-2024,Erica Wright,Corporate,Hyderabad,Grocery,Pm Grocery,393.37,6,0.36,118.22
+979,ORD00979,27-09-2025,03-10-2025,Joseph Fletcher,Corporate,Chennai,Beauty,Hold Furniture,5025.76,3,0.39,486.18
+980,ORD00980,14-10-2024,20-10-2024,Lauren Joseph,Home Office,Hyderabad,Electronics,Service Grocery,7228.54,3,0.41,641.71
+981,ORD00981,16-06-2024,18-06-2024,Angela Parker,Corporate,Bangalore,Furniture,Wear Electronics,1516.79,1,0.12,425.17
+982,ORD00982,17-04-2026,22-04-2026,Jacob Myers,Consumer,Pune,Grocery,Beautiful Furniture,7092.73,3,0.41,1060.65
+983,ORD00983,19-01-2025,23-01-2025,Melissa Mcknight,Corporate,Chennai,Furniture,Ask Grocery,781.35,4,0.19,216.77
+984,ORD00984,26-12-2024,30-12-2024,Whitney Huynh,Consumer,Hyderabad,Beauty,Carry Fashion,4470.95,10,0.12,1540.57
+985,ORD00985,12-09-2024,16-09-2024,Travis Lee,Consumer,Mumbai,Grocery,Hard Grocery,4412.64,8,0.13,497.66
+986,ORD00986,28-04-2025,05-05-2025,Brian Lin,Home Office,Chennai,Furniture,Occur Electronics,4796.99,5,0.41,413.3
+987,ORD00987,18-06-2025,24-06-2025,Shawn Jimenez,Corporate,Bangalore,Grocery,Worker Beauty,8456.35,7,0.38,632.39
+988,ORD00988,02-05-2025,07-05-2025,Gregory Elliott,Home Office,Mumbai,Electronics,Adult Electronics,2838.77,10,0.48,-505.34
+989,ORD00989,04-03-2025,08-03-2025,Laura Phillips,Consumer,Bangalore,Beauty,Mind Grocery,2468.68,7,0.15,-410.24
+990,ORD00990,10-02-2026,14-02-2026,Kristen Nguyen,Corporate,Pune,Beauty,Parent Furniture,7519.53,4,0.45,97.12
+991,ORD00991,11-04-2026,12-04-2026,Christopher Hubbard,Consumer,Pune,Beauty,Kitchen Grocery,5180.59,5,0.1,-219.51
+992,ORD00992,17-07-2024,21-07-2024,Bianca Moore,Home Office,Mumbai,Fashion,Store Grocery,9969.09,9,0.35,-1246.84
+993,ORD00993,15-09-2025,17-09-2025,Keith Lewis,Home Office,Bangalore,Fashion,Fire Fashion,382.04,3,0.33,-15.15
+994,ORD00994,13-03-2025,16-03-2025,Katie White,Home Office,Chennai,Furniture,Treat Furniture,8280.71,6,0.16,2797.42
+995,ORD00995,29-05-2025,31-05-2025,Steven Johnson,Corporate,Pune,Furniture,Large Fashion,7362.08,8,0.42,-163.79
+996,ORD00996,02-06-2025,03-06-2025,Sarah Patterson,Home Office,Pune,Fashion,Employee Fashion,3960.43,9,0.14,643.68
+997,ORD00997,29-07-2024,30-07-2024,William Donovan,Consumer,Delhi,Furniture,More Furniture,5920.15,5,0.24,142.83
+998,ORD00998,15-09-2024,20-09-2024,Samantha Cochran,Corporate,Delhi,Furniture,Security Beauty,2446.83,10,0.43,107.05
+999,ORD00999,14-10-2025,17-10-2025,Logan Rice,Consumer,Delhi,Beauty,Soon Furniture,9382.71,4,0.15,968.89
+1000,ORD01000,14-10-2024,15-10-2024,Andrew Lawrence,Corporate,Pune,Electronics,Serve Grocery,9531.62,5,0.14,-1115.57
