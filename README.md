@@ -30,9 +30,9 @@ Analyzed Company Sales in different City, category and segment wise
 * There is a seasonal sales dip in May, September and December months and all the other months performed well.
 
 
-### Main Dashboard
 
-[Sales Dashboard](Docs\Sales-Dashboard.png)
+## Sales Dashboard preview 
+https://github.com/mohankumarmg07-web/Sales-Analysis-Sql/blob/e1ef857809a4a59d5ad77ce62e1cc17bfe86cc86/Docs/Sales-Dashboard.png
 
 
 ### City Details Page
