@@ -11,9 +11,6 @@ Analyzed Company Sales in different City, category and segment wise
 * Power Query
 * KPI's
 * DAX
-* Power BI Charts and Graphs
-* Dynamic Titles
-* tooltip
 
 ## Insights
 
