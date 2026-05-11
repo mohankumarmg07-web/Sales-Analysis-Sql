@@ -45,4 +45,5 @@ https://github.com/mohankumarmg07-web/Sales-Analysis-Sql/blob/479fd746a54deb55e9
 
 ## Conclusion
 
-Sales is highly influenced by discounts and categories fails to convert good revenue into profits.
+Company is generating good amount of sales but as some products are making loss it fails to convert revenue into profit, 
+reviewing this issue can increase profit.
