@@ -43,9 +43,9 @@ https://github.com/mohankumarmg07-web/Sales-Analysis-Sql/blob/7c6a108709e75d2f7e
 
 [summary](Docs\summary.png)
 
-### Tooltip
 
-[Tooltip](Docs\Tooltip.png)
+## Tooltip preview
+https://github.com/mohankumarmg07-web/Sales-Analysis-Sql/blob/479fd746a54deb55e9fcf316b7e50719982211c1/Docs/Tooltip.png
 
 ## Conclusion
 
