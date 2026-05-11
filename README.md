@@ -37,13 +37,13 @@ Analyzed Company Sales in different City, category and segment wise
 
 ### City Details Page
 
-[Drill Through city](Docs\drill_through_city.png)
+[drill through city](Docs\drill_through_city.png)
 
 
 
 ### Summary Page
 
-[Summary](Docs\summary.png)
+[summary](Docs\summary.png)
 
 ### Tooltip
 
