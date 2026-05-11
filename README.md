@@ -39,9 +39,8 @@ https://github.com/mohankumarmg07-web/Sales-Analysis-Sql/blob/e1ef857809a4a59d5a
 https://github.com/mohankumarmg07-web/Sales-Analysis-Sql/blob/7c6a108709e75d2f7e31f9477185f6bedcc47650/Docs/drill_through_city.png
 
 
-### Summary Page
-
-[summary](Docs\summary.png)
+### Summary preview
+https://github.com/mohankumarmg07-web/Sales-Analysis-Sql/blob/22b28f4b07a595fde59f8e41f7718200493d40a0/Docs/summary.png
 
 
 ## Tooltip preview
