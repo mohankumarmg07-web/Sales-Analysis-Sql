@@ -1,8 +1,14 @@
-### Company Sales Analysis
+## Company Sales Analysis
+
+Analyzed sales data across different cities, categories and segments to indentify revenue trends,
+profit patterns and business insights.
 
 ## Project Overview
 
-Analyzed Company Sales in different City, category and segment wise
+This project focuses on analysing sales performance using SQL and Power BI.
+
+The Dashboard provides insights into revenue, profit, customer segments,
+regional performance and seasonal sales trends.
 
 ## Tools used
 
@@ -11,6 +17,19 @@ Analyzed Company Sales in different City, category and segment wise
 * Power Query
 * KPI's
 * DAX
+* KPI Metrics
+* Dynamic Titles
+* tooltip
+
+## Key Skills Demostrated
+
+* Data Cleaning
+* Data Visualization
+* SQL Querying
+* Dashboard Disgn
+* Business Insight Generation
+* KPI Reporting
+* DAX Calculation
 
 ## Insights
 
@@ -18,13 +37,15 @@ Analyzed Company Sales in different City, category and segment wise
 
 * Sales has the Year on  Year growth of 20.62 %.
 
-* Segment wise all three segments like consumer, corporate and home office  segments generated equal amount of profit
+* Segment wise all three segments like consumer, corporate and
+  home office  segments generated equal amount of profit
 
 * Bengaluru and Chennai cities has the highest order count.
 
 * Despite making good amount of total revenue all the  categories fails in converting it into profit.
 
-* There is a seasonal sales dip in May, September and December months and all the other months performed well.
+* There is a seasonal sales dip in May, September and December months and
+   all the other months performed well.
 
 
 
@@ -45,5 +66,6 @@ https://github.com/mohankumarmg07-web/Sales-Analysis-Sql/blob/479fd746a54deb55e9
 
 ## Conclusion
 
-Company is generating good amount of sales but as some products are making loss it fails to convert revenue into profit, 
-reviewing this issue can increase profit.
+Sales is strong in overall segments and categories but however certain products and
+categories are reducing overall profitability. Optimizing these low-performing areas
+can help improve profit margins and business performance.
