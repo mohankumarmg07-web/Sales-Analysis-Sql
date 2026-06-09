@@ -1,6 +1,6 @@
 ## Company Sales Analysis
 
-Analyzed sales data across different cities, categories and segments to indentify revenue trends,
+Analyzed sales data across different cities, categories and segments to identify revenue trends,
 profit patterns and business insights.
 
 ## Project Overview
